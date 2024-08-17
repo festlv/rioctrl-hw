@@ -1,0 +1,512 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "41b9ee15-835e-4b63-93e8-ca4d10e95680")
+	(paper "A4")
+	(lib_symbols)
+	(bus
+		(pts
+			(xy 170.18 90.17) (xy 241.3 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "11a56df2-7601-4625-85ba-6d29c50f52fb")
+	)
+	(bus
+		(pts
+			(xy 170.18 66.04) (xy 241.3 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "20bc6441-e0e3-4ce7-b6f5-4e0a9a1ea097")
+	)
+	(bus
+		(pts
+			(xy 170.18 92.71) (xy 241.3 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "465bc143-776f-42e5-b565-c4393c6155f1")
+	)
+	(bus
+		(pts
+			(xy 170.18 49.53) (xy 241.3 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4f69f2ef-7f6d-45d9-b569-88526fffe961")
+	)
+	(wire
+		(pts
+			(xy 170.18 102.87) (xy 241.3 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "516aea2e-caf6-4102-806a-68c5d5ad2bb4")
+	)
+	(bus
+		(pts
+			(xy 170.18 97.79) (xy 241.3 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "553e5622-d71b-4238-bea4-b7bbe19a79a9")
+	)
+	(bus
+		(pts
+			(xy 170.18 87.63) (xy 241.3 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "84f073e8-b50d-46ef-adc0-c75931b3a8b1")
+	)
+	(bus
+		(pts
+			(xy 170.18 53.34) (xy 241.3 53.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "99e31cd4-3803-45be-89ec-b6b7cac73dcd")
+	)
+	(bus
+		(pts
+			(xy 170.18 100.33) (xy 241.3 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c2563c7f-e746-470b-be31-85db325bca6a")
+	)
+	(bus
+		(pts
+			(xy 170.18 95.25) (xy 241.3 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d737b1be-9d24-4133-9372-9fffd155ad47")
+	)
+	(sheet
+		(at 67.31 33.02)
+		(size 102.87 95.25)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "0f99be73-1872-4e61-837d-7059db5ce2e1")
+		(property "Sheetname" "FPGA"
+			(at 67.31 32.3084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "fpga.kicad_sch"
+			(at 67.31 128.8546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "JTAG{TX RX TDI TDO TCK TMS RST TRST}" input
+			(at 170.18 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "94f492aa-45e3-4172-9e0e-2ba6599d5330")
+		)
+		(pin "SA[0..9]" bidirectional
+			(at 170.18 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "d0b61def-405b-4789-853c-a3109bcce562")
+		)
+		(pin "SF[0..9]" bidirectional
+			(at 170.18 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "d5655317-5072-4b22-8ca8-5ac11dfd8e74")
+		)
+		(pin "SB[0..9]" bidirectional
+			(at 170.18 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "7ef11075-6893-4e23-879e-160330b9bd98")
+		)
+		(pin "SE[0..9]" bidirectional
+			(at 170.18 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "8b7a6518-4fd2-45a3-a0b0-fa737ab7533b")
+		)
+		(pin "SC[0..9]" bidirectional
+			(at 170.18 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "edf5f171-293b-418f-ad51-ac4a9c83fa84")
+		)
+		(pin "SD[0..9]" bidirectional
+			(at 170.18 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "2d6253ad-84bc-498e-9770-d3cc3bc8ed84")
+		)
+		(pin "W5500{nSCS SCLK MISO MOSI nINT nRST}" input
+			(at 170.18 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "465803bb-047e-4776-95f5-82a4d8b18760")
+		)
+		(pin "SPI{MOSI MISO CLK CS}" input
+			(at 170.18 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "ca885849-4b24-4563-ba9d-cf34ef9ce64a")
+		)
+		(pin "SlotEN" output
+			(at 170.18 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "4406fe3a-8198-4cd5-9b43-ecc9432f4e84")
+		)
+		(instances
+			(project "rioctrl-hw"
+				(path "/41b9ee15-835e-4b63-93e8-ca4d10e95680"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 241.3 45.72)
+		(size 41.91 11.43)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "12b05685-a2b2-4916-902f-35688b6b31cb")
+		(property "Sheetname" "RP2040 JTAG"
+			(at 241.3 45.0084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "rp2040.kicad_sch"
+			(at 241.3 57.7346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "JTAG{TX RX TDI TDO TCK TMS RST TRST}" output
+			(at 241.3 49.53 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "6905575c-f6fc-4a64-985b-2cc523ce140e")
+		)
+		(pin "SPI{MOSI MISO CLK CS}" output
+			(at 241.3 53.34 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "dda50d9b-7cb7-41e3-a4fc-121a80e2a9e6")
+		)
+		(instances
+			(project "rioctrl-hw"
+				(path "/41b9ee15-835e-4b63-93e8-ca4d10e95680"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 241.3 17.78)
+		(size 41.91 10.16)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "498ea836-4171-4657-b97e-228689557fd4")
+		(property "Sheetname" "Power"
+			(at 241.3 17.0684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power.kicad_sch"
+			(at 241.3 28.5246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Field2" ""
+			(at 241.3 17.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "rioctrl-hw"
+				(path "/41b9ee15-835e-4b63-93e8-ca4d10e95680"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 241.3 63.5)
+		(size 41.91 11.43)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "c39c2aa2-a206-48a8-97cd-a37d73ce1ca0")
+		(property "Sheetname" "W5500 interface"
+			(at 241.3 62.7884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "w5500.kicad_sch"
+			(at 241.3 75.5146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "W5500{nSCS SCLK MISO MOSI nINT nRST}" input
+			(at 241.3 66.04 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "d71cadd1-a9a8-4572-9f1f-e3e58d09369d")
+		)
+		(instances
+			(project "rioctrl-hw"
+				(path "/41b9ee15-835e-4b63-93e8-ca4d10e95680"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 241.3 82.55)
+		(size 41.91 25.4)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "ec062b7e-ddb2-4172-ba6c-49e5bb092567")
+		(property "Sheetname" "Slots"
+			(at 241.3 81.8384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "slots.kicad_sch"
+			(at 241.3 108.5346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "SA[0..9]" input
+			(at 241.3 87.63 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "75407da0-7df2-4285-bce4-be25942b60f3")
+		)
+		(pin "SB[0..9]" input
+			(at 241.3 90.17 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "b9804b05-e506-4eff-8ed5-19e24f1b10b0")
+		)
+		(pin "SC[0..9]" input
+			(at 241.3 92.71 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "c23c8197-b3ee-469b-9eec-6b557ca4845d")
+		)
+		(pin "SD[0..9]" input
+			(at 241.3 95.25 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "a5071b35-659c-46d9-a780-8607d622fb46")
+		)
+		(pin "SE[0..9]" input
+			(at 241.3 97.79 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "f2a49070-d7a7-41ca-a104-46cabcf63271")
+		)
+		(pin "SF[0..9]" input
+			(at 241.3 100.33 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "74c4c45a-433b-40d0-a1ea-6f4e3b2a6c50")
+		)
+		(pin "SlotEN" input
+			(at 241.3 102.87 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "fd7916cb-c347-4126-8396-a54ffb66c20e")
+		)
+		(instances
+			(project "rioctrl-hw"
+				(path "/41b9ee15-835e-4b63-93e8-ca4d10e95680"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)

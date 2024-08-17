@@ -1,0 +1,3 @@
+[submodule "hadv-kicad-lib"]
+	path = hadv-kicad-lib
+	url = git@gitlab.com:hadv1/hadv-kicad-lib.git
