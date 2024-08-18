@@ -58,9 +58,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        "courtyards_overlap|154000001|118500001|2a6e5d69-d9d8-4be0-9534-1f1bf496129e|d6b23907-5356-4c8e-abcf-d4a48b9455cf"
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
@@ -125,7 +123,7 @@
         "min_hole_to_hole": 0.25,
         "min_microvia_diameter": 0.2,
         "min_microvia_drill": 0.1,
-        "min_resolved_spokes": 2,
+        "min_resolved_spokes": 1,
         "min_silk_clearance": 0.0,
         "min_text_height": 0.7,
         "min_text_thickness": 0.08,
@@ -491,6 +489,23 @@
         "via_diameter": 0.35,
         "via_drill": 0.2,
         "wire_width": 6
+      },
+      {
+        "bus_width": 12,
+        "clearance": 0.2,
+        "diff_pair_gap": 0.25,
+        "diff_pair_via_gap": 0.25,
+        "diff_pair_width": 0.2,
+        "line_style": 0,
+        "microvia_diameter": 0.3,
+        "microvia_drill": 0.1,
+        "name": "Power",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 1.0,
+        "via_diameter": 1.0,
+        "via_drill": 0.5,
+        "wire_width": 6
       }
     ],
     "meta": {
@@ -510,6 +525,38 @@
       {
         "netclass": "Fanout",
         "pattern": "/FPGA/*"
+      },
+      {
+        "netclass": "Fanout",
+        "pattern": "/*JTAG.*"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "Net-(J*-Pin_17*"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "Net-(J*-Pin_19*"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "Net-(J*-Pin_21*"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "Net-(J*-Pin_23*"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "Net-(D*-A2*"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "Net-(D*-A1*"
+      },
+      {
+        "netclass": "Fanout",
+        "pattern": "*FPGA_*"
       }
     ]
   },
@@ -648,8 +695,28 @@
       "FPGA"
     ],
     [
-      "ec062b7e-ddb2-4172-ba6c-49e5bb092567",
-      "Slots"
+      "2eb1b3d0-499c-4b1f-a7f9-93334392e156",
+      "SlotA"
+    ],
+    [
+      "77805739-4e2f-4655-b752-e7a1b8069371",
+      "SlotB"
+    ],
+    [
+      "c4cd0391-fab5-4e63-9a6c-bf6c77e72620",
+      "SlotC"
+    ],
+    [
+      "072de78e-3330-4df0-a512-3fe1fd436750",
+      "SlotD"
+    ],
+    [
+      "e2a68adc-dc5e-4a6a-80c6-9e0ce00ad2b0",
+      "SlotE"
+    ],
+    [
+      "16805482-8d9d-4b1c-95f6-d956a6548608",
+      "SlotF"
     ]
   ],
   "text_variables": {}

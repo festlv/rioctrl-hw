@@ -12,4 +12,5 @@
   (lib (name "hadv-connectors")(type "KiCad")(uri "${KIPRJMOD}/../hadv-kicad-lib/hadv-connectors.kicad_sym")(options "")(descr ""))
   (lib (name "hadv-protection")(type "KiCad")(uri "${KIPRJMOD}/../hadv-kicad-lib/hadv-protection.kicad_sym")(options "")(descr ""))
   (lib (name "hadv-mcu")(type "KiCad")(uri "${KIPRJMOD}/../hadv-kicad-lib/hadv-mcu.kicad_sym")(options "")(descr ""))
+  (lib (name "hadv-buffers-translators")(type "KiCad")(uri "${KIPRJMOD}/../hadv-kicad-lib/hadv-buffers-translators.kicad_sym")(options "")(descr ""))
 )

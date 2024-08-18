@@ -8660,6 +8660,7 @@
 	)
 	(label "SPI.CLK"
 		(at 241.3 93.98 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8680,7 +8681,7 @@
 		(uuid "22b4304d-ccd4-4efe-ac96-115fd9be02e3")
 	)
 	(label "GPIO6"
-		(at 330.2 93.98 0)
+		(at 355.6 91.44 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8714,6 +8715,7 @@
 	)
 	(label "SPI.MISO"
 		(at 241.3 99.06 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8811,7 +8813,7 @@
 		(uuid "5f091505-854a-402d-9a72-f566deb9e87b")
 	)
 	(label "GPIO13"
-		(at 355.6 96.52 0)
+		(at 330.2 99.06 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8888,7 +8890,7 @@
 		(uuid "846e1bdb-18ac-4a65-a139-5d452be89b9c")
 	)
 	(label "GPIO12"
-		(at 355.6 93.98 0)
+		(at 355.6 96.52 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8944,6 +8946,7 @@
 	)
 	(label "SPI.CS"
 		(at 241.3 101.6 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8986,7 +8989,7 @@
 		(uuid "b7c903b6-002a-490e-83fa-f5bb441dafe3")
 	)
 	(label "GPIO7"
-		(at 330.2 96.52 0)
+		(at 330.2 93.98 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -9019,7 +9022,7 @@
 		(uuid "e9870f05-0e6a-421c-aa05-a539a83eb0cf")
 	)
 	(label "GPIO11"
-		(at 355.6 91.44 0)
+		(at 330.2 96.52 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -9041,7 +9044,7 @@
 		(uuid "ed668c8d-6bcf-46bf-bee0-e224d219ce12")
 	)
 	(label "GPIO10"
-		(at 330.2 99.06 0)
+		(at 355.6 93.98 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -9064,6 +9067,7 @@
 	)
 	(label "SPI.MOSI"
 		(at 241.3 96.52 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
