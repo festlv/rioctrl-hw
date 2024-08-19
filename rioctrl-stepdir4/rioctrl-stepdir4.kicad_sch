@@ -331,7 +331,7 @@
 			)
 		)
 		(property "Sheetfile" "stepdir.kicad_sch"
-			(at 105.41 106.6296 0)
+			(at 105.41 105.9946 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -389,7 +389,7 @@
 			(color 0 0 0 0.0000)
 		)
 		(uuid "37660470-539d-4ef0-8319-4a3363bab027")
-		(property "Sheetname" "Step dir output 3"
+		(property "Sheetname" "Step dir output 1"
 			(at 105.41 113.5884 0)
 			(effects
 				(font
@@ -399,7 +399,7 @@
 			)
 		)
 		(property "Sheetfile" "stepdir.kicad_sch"
-			(at 105.41 135.8396 0)
+			(at 105.41 135.2046 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -625,7 +625,7 @@
 			(color 0 0 0 0.0000)
 		)
 		(uuid "6edbf5bb-a097-4513-bbfc-fc51b4716a77")
-		(property "Sheetname" "Step dir output 1"
+		(property "Sheetname" "Step dir output 3"
 			(at 105.41 57.7084 0)
 			(effects
 				(font
@@ -635,7 +635,7 @@
 			)
 		)
 		(property "Sheetfile" "stepdir.kicad_sch"
-			(at 105.41 79.9596 0)
+			(at 105.41 79.3246 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -693,7 +693,7 @@
 			(color 0 0 0 0.0000)
 		)
 		(uuid "eebf3392-0a38-4e82-919d-cd3d193b6f43")
-		(property "Sheetname" "Step dir output 0"
+		(property "Sheetname" "Step dir output 4"
 			(at 105.41 28.4984 0)
 			(effects
 				(font
@@ -703,7 +703,7 @@
 			)
 		)
 		(property "Sheetfile" "stepdir.kicad_sch"
-			(at 105.41 50.7496 0)
+			(at 105.41 50.1146 0)
 			(effects
 				(font
 					(size 1.27 1.27)
