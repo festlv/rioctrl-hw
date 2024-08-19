@@ -4799,7 +4799,7 @@
 		(uuid "fa451640-d66b-4573-bc61-19d95b89f65a")
 	)
 	(label "DIR_OUT_N"
-		(at 138.43 106.68 0)
+		(at 142.24 106.68 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4810,7 +4810,7 @@
 		(uuid "19e1db79-e033-49e7-b647-88980ee8a76b")
 	)
 	(label "STEP_OUT_P_N"
-		(at 165.1 49.53 0)
+		(at 172.72 46.99 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4843,7 +4843,7 @@
 		(uuid "327bac7d-ea96-43e0-876d-bec7cae1f93c")
 	)
 	(label "STEP_OUT_P_P"
-		(at 165.1 44.45 0)
+		(at 172.72 44.45 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4854,7 +4854,7 @@
 		(uuid "38f7027b-1c93-4900-bbfc-da4b3b82c179")
 	)
 	(label "DIR_OUT_P_P"
-		(at 165.1 54.61 0)
+		(at 172.72 54.61 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4876,7 +4876,7 @@
 		(uuid "728d6e73-245a-4bb7-bf0f-8c82f1787e21")
 	)
 	(label "STEP_OUT_N"
-		(at 115.57 49.53 0)
+		(at 142.24 49.53 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4887,7 +4887,7 @@
 		(uuid "a48ebd69-79db-4ef8-ad2a-7c8b19fe2342")
 	)
 	(label "STEP_OUT_P"
-		(at 115.57 44.45 0)
+		(at 142.24 44.45 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
