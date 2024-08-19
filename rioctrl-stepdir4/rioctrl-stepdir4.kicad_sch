@@ -1,0 +1,757 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "09587842-9628-4761-8ca3-5c7cdb77bd67")
+	(paper "A4")
+	(lib_symbols)
+	(no_connect
+		(at 40.64 62.23)
+		(uuid "429f3b63-d11b-45f5-8c9e-76aa1ebba6b9")
+	)
+	(wire
+		(pts
+			(xy 105.41 119.38) (xy 55.88 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "004cb600-5796-410f-bd1e-49ac92e6e1ec")
+	)
+	(wire
+		(pts
+			(xy 40.64 54.61) (xy 58.42 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0d2bb63d-2b35-4654-bfb7-64fa2f04a994")
+	)
+	(wire
+		(pts
+			(xy 40.64 31.75) (xy 105.41 31.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1206ec5a-e7c6-436c-8363-c18c6491d72e")
+	)
+	(wire
+		(pts
+			(xy 40.64 34.29) (xy 105.41 34.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1909814e-1c87-4121-9866-3b14d91f3268")
+	)
+	(wire
+		(pts
+			(xy 40.64 41.91) (xy 80.01 41.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1a5d22c7-bd93-4a15-94e3-2a476237e258")
+	)
+	(wire
+		(pts
+			(xy 67.31 90.17) (xy 105.41 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2e3fbc44-70de-4028-a85a-74b08cc29756")
+	)
+	(wire
+		(pts
+			(xy 71.12 87.63) (xy 105.41 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "50f73dea-222e-478b-b11b-ee4209469e8e")
+	)
+	(wire
+		(pts
+			(xy 82.55 39.37) (xy 82.55 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "564c1346-b41e-4677-801f-66f20a40d21f")
+	)
+	(wire
+		(pts
+			(xy 40.64 59.69) (xy 53.34 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6075ca82-ca91-4191-9f7e-5ce75bd09cc7")
+	)
+	(wire
+		(pts
+			(xy 53.34 121.92) (xy 105.41 121.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "60d7c61d-a9fe-473d-9a8d-bbec846f6c85")
+	)
+	(wire
+		(pts
+			(xy 40.64 46.99) (xy 71.12 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6777cfd8-1430-44fa-9aae-626ac5632650")
+	)
+	(wire
+		(pts
+			(xy 82.55 60.96) (xy 105.41 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "69df08db-cebc-4035-9994-85be14787d32")
+	)
+	(wire
+		(pts
+			(xy 58.42 54.61) (xy 58.42 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6dcee4c1-9c29-43c9-8f8e-e48cf026f9c8")
+	)
+	(wire
+		(pts
+			(xy 80.01 63.5) (xy 105.41 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7014fdac-7f11-4d08-8a76-b64d7a8c93ad")
+	)
+	(wire
+		(pts
+			(xy 55.88 119.38) (xy 55.88 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7f04eff6-04e6-4711-8a9f-3f7c56c19a94")
+	)
+	(wire
+		(pts
+			(xy 77.47 44.45) (xy 77.47 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8ebcc937-94f2-4389-918f-7078ceacd7c3")
+	)
+	(wire
+		(pts
+			(xy 40.64 39.37) (xy 82.55 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8f7c1a64-5d34-4000-935d-327bfab2d09a")
+	)
+	(wire
+		(pts
+			(xy 40.64 36.83) (xy 105.41 36.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9e32cbdf-4e55-41b1-bae1-6527486e58c2")
+	)
+	(wire
+		(pts
+			(xy 67.31 49.53) (xy 67.31 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a76f51b2-b691-4f89-9b82-4c59f40c8633")
+	)
+	(wire
+		(pts
+			(xy 71.12 46.99) (xy 71.12 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ad82695a-0149-40ee-b778-96f69e38ad06")
+	)
+	(wire
+		(pts
+			(xy 53.34 59.69) (xy 53.34 121.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "adab50ad-df7a-4136-8544-95ec3c697510")
+	)
+	(wire
+		(pts
+			(xy 80.01 41.91) (xy 80.01 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b120bb90-d1f5-4026-9c4b-354eacbdf8bd")
+	)
+	(wire
+		(pts
+			(xy 64.77 52.07) (xy 40.64 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b8e8fc21-28ac-41f2-92a7-fb0fbca07115")
+	)
+	(wire
+		(pts
+			(xy 77.47 66.04) (xy 105.41 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bd665399-6bb1-4fa6-a0af-5157d2cfddde")
+	)
+	(wire
+		(pts
+			(xy 40.64 49.53) (xy 67.31 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cd4d9a0c-ef5c-4484-8f9d-0576523c20c1")
+	)
+	(wire
+		(pts
+			(xy 64.77 92.71) (xy 64.77 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d126be06-402c-4c41-972a-136d7f719c88")
+	)
+	(wire
+		(pts
+			(xy 58.42 116.84) (xy 105.41 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e0a99523-8546-464a-8d74-125f1031b8d9")
+	)
+	(wire
+		(pts
+			(xy 55.88 57.15) (xy 40.64 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ec71da16-4566-4a12-9f67-78483e81f71b")
+	)
+	(wire
+		(pts
+			(xy 40.64 44.45) (xy 77.47 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f47ed00d-0fc7-4f1a-8a79-23d2c56a42f5")
+	)
+	(wire
+		(pts
+			(xy 105.41 92.71) (xy 64.77 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f8ec731b-d6d7-448a-86ed-4b6346fed501")
+	)
+	(sheet
+		(at 105.41 85.09)
+		(size 24.13 20.32)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "05836d8b-9c0a-4ec5-b5c3-59f72c542683")
+		(property "Sheetname" "Step dir output 2"
+			(at 105.41 84.3784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "stepdir.kicad_sch"
+			(at 105.41 106.6296 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "STEP" input
+			(at 105.41 87.63 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "5e3961f1-0fdb-4f78-8054-e6a44c0cebf2")
+		)
+		(pin "EN" input
+			(at 105.41 92.71 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "ee0160dc-05a1-43cf-9dbf-de25091565cd")
+		)
+		(pin "DIR" input
+			(at 105.41 90.17 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "cb786656-c4d3-4963-9673-c43ce30daa2b")
+		)
+		(instances
+			(project "rioctrl-stepdir4"
+				(path "/09587842-9628-4761-8ca3-5c7cdb77bd67"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 105.41 114.3)
+		(size 24.13 20.32)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "37660470-539d-4ef0-8319-4a3363bab027")
+		(property "Sheetname" "Step dir output 3"
+			(at 105.41 113.5884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "stepdir.kicad_sch"
+			(at 105.41 135.8396 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "STEP" input
+			(at 105.41 116.84 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "f8086ee4-cbaa-4a87-8986-d0bf71750605")
+		)
+		(pin "EN" input
+			(at 105.41 121.92 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "014119ca-0777-49ab-9174-fa555459ae95")
+		)
+		(pin "DIR" input
+			(at 105.41 119.38 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "1c1ffb65-0410-4e04-8534-eaea5e8f9b63")
+		)
+		(instances
+			(project "rioctrl-stepdir4"
+				(path "/09587842-9628-4761-8ca3-5c7cdb77bd67"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 22.86 29.21)
+		(size 17.78 34.29)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "37e028e8-dcad-4a75-b244-5f607e32f85e")
+		(property "Sheetname" "Slot input"
+			(at 22.86 28.4984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "slot.kicad_sch"
+			(at 22.86 64.0846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "S0" bidirectional
+			(at 40.64 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "90ed7116-71c6-4855-8cda-04d3d27b64be")
+		)
+		(pin "S1" bidirectional
+			(at 40.64 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "7eaa535e-e115-4d73-bd58-9642f2f3bb9e")
+		)
+		(pin "S2" bidirectional
+			(at 40.64 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "2585a19c-bdf9-474f-9958-394272b90c10")
+		)
+		(pin "S3" bidirectional
+			(at 40.64 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "e5464932-f64a-4ebb-9281-4c78b79f050c")
+		)
+		(pin "S4" bidirectional
+			(at 40.64 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "d39af4fd-129a-478b-bf87-5fc58b9c5b04")
+		)
+		(pin "SlotEN" output
+			(at 40.64 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "3cbed03b-5ac7-45e1-8500-0bc0a4a42cae")
+		)
+		(pin "S5" bidirectional
+			(at 40.64 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "0ba04a16-c8f1-4ce9-b8ce-1aea4189c19c")
+		)
+		(pin "S6" bidirectional
+			(at 40.64 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "5ba8d707-3334-47a5-8929-ed4aeaca82e9")
+		)
+		(pin "S9" bidirectional
+			(at 40.64 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "d8085406-4470-4666-8539-a5d4dc5d5eca")
+		)
+		(pin "S7" bidirectional
+			(at 40.64 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "4eadc58b-a5b3-40ac-9f10-6b7facd6f025")
+		)
+		(pin "S8" bidirectional
+			(at 40.64 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "02cc6822-9b5c-4306-b1e6-f7b53b6bad8d")
+		)
+		(pin "S11" bidirectional
+			(at 40.64 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "bd1b6d48-327d-4241-b738-8c4d8b707798")
+		)
+		(pin "S10" bidirectional
+			(at 40.64 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "2f52d026-3edd-4b87-bf7b-f30668d9fb03")
+		)
+		(instances
+			(project "rioctrl-stepdir4"
+				(path "/09587842-9628-4761-8ca3-5c7cdb77bd67"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 105.41 58.42)
+		(size 24.13 20.32)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "6edbf5bb-a097-4513-bbfc-fc51b4716a77")
+		(property "Sheetname" "Step dir output 1"
+			(at 105.41 57.7084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "stepdir.kicad_sch"
+			(at 105.41 79.9596 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "STEP" input
+			(at 105.41 60.96 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "a1ba7c9d-4807-4baf-9d54-b398b4002e14")
+		)
+		(pin "EN" input
+			(at 105.41 66.04 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "ad27311a-0842-4b1d-a534-a9d4eb460c06")
+		)
+		(pin "DIR" input
+			(at 105.41 63.5 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "a49aff07-0773-4040-ab1a-f196607ec16d")
+		)
+		(instances
+			(project "rioctrl-stepdir4"
+				(path "/09587842-9628-4761-8ca3-5c7cdb77bd67"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 105.41 29.21)
+		(size 24.13 20.32)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "eebf3392-0a38-4e82-919d-cd3d193b6f43")
+		(property "Sheetname" "Step dir output 0"
+			(at 105.41 28.4984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "stepdir.kicad_sch"
+			(at 105.41 50.7496 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "STEP" input
+			(at 105.41 31.75 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "6bc72bee-c0a4-4a95-96d2-4d6b0a1696bb")
+		)
+		(pin "EN" input
+			(at 105.41 36.83 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "91e05f0f-507e-4b79-b5de-4af39b3fa226")
+		)
+		(pin "DIR" input
+			(at 105.41 34.29 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "f3845dad-14f9-4079-85b4-b4facafda9ad")
+		)
+		(instances
+			(project "rioctrl-stepdir4"
+				(path "/09587842-9628-4761-8ca3-5c7cdb77bd67"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
