@@ -2,3 +2,6 @@
 *-cache
 *.lck
 \#auto*
+place_footprints.log
+replicate_layout.log
+place_footprints.ini

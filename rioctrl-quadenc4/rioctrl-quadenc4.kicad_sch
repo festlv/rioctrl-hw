@@ -1,0 +1,757 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "d2cd227f-e978-42c2-bb8b-78eaab8a27a1")
+	(paper "A4")
+	(lib_symbols)
+	(no_connect
+		(at 120.65 74.93)
+		(uuid "6fdf3650-2d5b-4a4a-a70f-06dd78cf8b8a")
+	)
+	(wire
+		(pts
+			(xy 168.91 62.23) (xy 179.07 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "043c5e58-4998-47dd-a01e-97c42a9b4176")
+	)
+	(wire
+		(pts
+			(xy 148.59 97.79) (xy 148.59 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "08f1dc3f-d15a-438c-8590-b63469096ed0")
+	)
+	(wire
+		(pts
+			(xy 146.05 69.85) (xy 146.05 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0930d270-7d9c-42e5-8e26-780a24b42075")
+	)
+	(wire
+		(pts
+			(xy 154.94 64.77) (xy 120.65 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "19e4253f-9b46-4bdf-8081-1964999aad3f")
+	)
+	(wire
+		(pts
+			(xy 146.05 100.33) (xy 179.07 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "232ade86-2dbe-45d9-ab27-2eda360548f5")
+	)
+	(wire
+		(pts
+			(xy 163.83 57.15) (xy 163.83 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "277bb586-2b00-47a3-81e5-d77f76bfb4db")
+	)
+	(wire
+		(pts
+			(xy 157.48 62.23) (xy 157.48 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "57653eb1-e837-44dd-af6e-d72d2c591322")
+	)
+	(wire
+		(pts
+			(xy 120.65 46.99) (xy 179.07 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6545dd73-a707-413b-98a0-b8d1e4b27d5a")
+	)
+	(wire
+		(pts
+			(xy 179.07 102.87) (xy 143.51 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6a20322a-ba89-403f-97d1-6d0b9f409bb9")
+	)
+	(wire
+		(pts
+			(xy 154.94 85.09) (xy 154.94 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6e406506-94c9-4852-8a31-cf243a08296a")
+	)
+	(wire
+		(pts
+			(xy 166.37 54.61) (xy 120.65 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6eb175d0-a2ef-4069-b44e-60877239912d")
+	)
+	(wire
+		(pts
+			(xy 120.65 57.15) (xy 163.83 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "70200b8f-afb6-4fc6-b44c-c6c6ed05245c")
+	)
+	(wire
+		(pts
+			(xy 179.07 80.01) (xy 160.02 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "709b0bba-149a-45eb-8239-0f7d06e30712")
+	)
+	(wire
+		(pts
+			(xy 120.65 44.45) (xy 179.07 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7348663c-0a07-492f-afab-a5a3ce161084")
+	)
+	(wire
+		(pts
+			(xy 160.02 80.01) (xy 160.02 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "76f24a24-6e7d-4f30-817c-322d15ca7cda")
+	)
+	(wire
+		(pts
+			(xy 168.91 52.07) (xy 168.91 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7a067d82-2672-4108-a337-3af61452cd1d")
+	)
+	(wire
+		(pts
+			(xy 179.07 64.77) (xy 166.37 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8011d11a-3ad1-42bd-b017-0e0a7cab6854")
+	)
+	(wire
+		(pts
+			(xy 179.07 85.09) (xy 154.94 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "80f21b4f-0c49-422e-a513-8a99bf035d95")
+	)
+	(wire
+		(pts
+			(xy 157.48 82.55) (xy 179.07 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "80fe6d86-16da-473d-937d-c20ccc190aa6")
+	)
+	(wire
+		(pts
+			(xy 166.37 64.77) (xy 166.37 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8c63cf8a-b480-41a6-a0b3-ace369681183")
+	)
+	(wire
+		(pts
+			(xy 179.07 97.79) (xy 148.59 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "922f2b01-7250-4b4e-a05d-52ed50c23e7b")
+	)
+	(wire
+		(pts
+			(xy 143.51 102.87) (xy 143.51 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9e2882cd-6da8-4117-b376-8f15325b7b10")
+	)
+	(wire
+		(pts
+			(xy 120.65 69.85) (xy 146.05 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a7559c23-6018-41c1-b038-bc6cf792fb37")
+	)
+	(wire
+		(pts
+			(xy 163.83 67.31) (xy 179.07 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b87fb391-0ec6-488a-87ee-b0c125b25c2d")
+	)
+	(wire
+		(pts
+			(xy 143.51 72.39) (xy 120.65 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c94a1803-eee2-4c45-9819-1439904ca10f")
+	)
+	(wire
+		(pts
+			(xy 120.65 49.53) (xy 179.07 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ca8a2ad3-f2b6-4ee3-b0e3-1dea8f6376af")
+	)
+	(wire
+		(pts
+			(xy 148.59 67.31) (xy 120.65 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cc077aa2-9add-4e96-be9f-2acc52b91e8a")
+	)
+	(wire
+		(pts
+			(xy 120.65 52.07) (xy 168.91 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dc9b109b-aa2e-4e57-b89b-999dc9795594")
+	)
+	(wire
+		(pts
+			(xy 160.02 59.69) (xy 120.65 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eb61958f-6fdc-4a82-9d0f-fd40ebe06979")
+	)
+	(wire
+		(pts
+			(xy 120.65 62.23) (xy 157.48 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f98fedfa-2a3c-4918-9fab-4b32fe431933")
+	)
+	(sheet
+		(at 179.07 43.18)
+		(size 33.02 11.43)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "23c7ab7e-7769-4020-916d-624ec6592bc6")
+		(property "Sheetname" "Quadenc"
+			(at 179.07 42.4684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "quadenc.kicad_sch"
+			(at 179.07 54.5596 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "Z" output
+			(at 179.07 44.45 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "1588d546-adf9-4540-bc6f-5fa6d9276f32")
+		)
+		(pin "A" output
+			(at 179.07 49.53 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "fe3ace77-4562-42cc-99a3-0c0bde1d52d2")
+		)
+		(pin "B" output
+			(at 179.07 46.99 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "e0682d03-d26d-4649-9e44-29055060e5e8")
+		)
+		(instances
+			(project "rioctrl-quadenc4"
+				(path "/d2cd227f-e978-42c2-bb8b-78eaab8a27a1"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 80.01 41.91)
+		(size 40.64 46.99)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "34ed50ec-1a73-44fe-9917-d3ad4bec02fb")
+		(property "Sheetname" "Slot"
+			(at 80.01 41.1984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "slot.kicad_sch"
+			(at 80.01 89.4846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "S0" bidirectional
+			(at 120.65 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "034ba3e1-f9b0-4daa-b8f4-870a4a2101c1")
+		)
+		(pin "S4" bidirectional
+			(at 120.65 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "218a2b84-4ce6-4187-8e96-bc634b277717")
+		)
+		(pin "S1" bidirectional
+			(at 120.65 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "cd81f368-55e8-413e-824c-66d1d7dc2b8a")
+		)
+		(pin "S5" bidirectional
+			(at 120.65 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "a12ea3b1-4569-4c00-8bcb-fb3fa504d93a")
+		)
+		(pin "S2" bidirectional
+			(at 120.65 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "347b0184-4ea8-4664-b690-0c816a946d6d")
+		)
+		(pin "S3" bidirectional
+			(at 120.65 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "66bd6b36-442a-4b8d-8010-eb080d31906a")
+		)
+		(pin "S6" bidirectional
+			(at 120.65 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "6ce595b9-66aa-4721-9521-87755a2907b8")
+		)
+		(pin "S8" bidirectional
+			(at 120.65 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "8cf9c264-a473-4ad0-8cd8-7020d5215980")
+		)
+		(pin "S7" bidirectional
+			(at 120.65 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "fed4107b-60ed-4f21-90c0-1f8b007101d7")
+		)
+		(pin "S9" bidirectional
+			(at 120.65 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "643aa316-c8f2-478d-8e26-e0a2ddbea754")
+		)
+		(pin "S11" bidirectional
+			(at 120.65 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "27deb1a4-ad09-4f8f-b1ad-01f39e0f6f68")
+		)
+		(pin "S10" bidirectional
+			(at 120.65 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "ec416f73-3bcd-4e83-aa82-aa2077e3857f")
+		)
+		(pin "SlotEN" output
+			(at 120.65 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "96a20b6e-df95-45a1-b64d-15279c0cec62")
+		)
+		(instances
+			(project "rioctrl-quadenc4"
+				(path "/d2cd227f-e978-42c2-bb8b-78eaab8a27a1"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 179.07 60.96)
+		(size 33.02 11.43)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "56257a9c-dde7-4b05-8542-7258127600be")
+		(property "Sheetname" "Quadenc1"
+			(at 179.07 60.2484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "quadenc.kicad_sch"
+			(at 179.07 72.3396 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "Z" output
+			(at 179.07 62.23 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "12dd4dfe-5f12-4ef0-bf54-4de5b773f9c0")
+		)
+		(pin "A" output
+			(at 179.07 67.31 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "88fac800-1dcd-4dba-ba91-03dd6e9f4d8c")
+		)
+		(pin "B" output
+			(at 179.07 64.77 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "d2ea34fb-848d-4425-98dd-231d954fdf9f")
+		)
+		(instances
+			(project "rioctrl-quadenc4"
+				(path "/d2cd227f-e978-42c2-bb8b-78eaab8a27a1"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 179.07 96.52)
+		(size 33.02 11.43)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "def00e93-46b5-4526-87a5-f0ff7013dcb7")
+		(property "Sheetname" "Quadenc3"
+			(at 179.07 95.8084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "quadenc.kicad_sch"
+			(at 179.07 107.8996 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "Z" output
+			(at 179.07 97.79 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "71d27b60-1a36-45ca-9d1f-c64caceac292")
+		)
+		(pin "A" output
+			(at 179.07 102.87 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "1dd06fbf-14e0-45fa-bb9d-70dd865b9c27")
+		)
+		(pin "B" output
+			(at 179.07 100.33 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "77f7a6dc-2bc2-4f44-9583-f3103f356852")
+		)
+		(instances
+			(project "rioctrl-quadenc4"
+				(path "/d2cd227f-e978-42c2-bb8b-78eaab8a27a1"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 179.07 78.74)
+		(size 33.02 11.43)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "ec482ff3-344a-4934-a38d-8d1130d323ff")
+		(property "Sheetname" "Quadenc2"
+			(at 179.07 78.0284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "quadenc.kicad_sch"
+			(at 179.07 90.1196 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "Z" output
+			(at 179.07 80.01 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "8b8514ea-cb83-4780-99ab-db6d80248a4b")
+		)
+		(pin "A" output
+			(at 179.07 85.09 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "61e9667e-11ec-42a4-8332-aa8dda3087ea")
+		)
+		(pin "B" output
+			(at 179.07 82.55 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "712e3cbd-de52-41dc-953f-7d3ea634fdbb")
+		)
+		(instances
+			(project "rioctrl-quadenc4"
+				(path "/d2cd227f-e978-42c2-bb8b-78eaab8a27a1"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
