@@ -1380,6 +1380,108 @@
 				)
 			)
 		)
+		(symbol "power:PWR_FLAG"
+			(power)
+			(pin_numbers hide)
+			(pin_names
+				(offset 0) hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#FLG"
+				(at 0 1.905 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "PWR_FLAG"
+				(at 0 3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Special symbol for telling ERC where power comes from"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "flag power"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "PWR_FLAG_0_0"
+				(pin power_out line
+					(at 0 0 90)
+					(length 0)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "PWR_FLAG_0_1"
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 1.27) (xy -1.016 1.905) (xy 0 2.54) (xy 1.016 1.905) (xy 0 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+		)
+	)
+	(junction
+		(at 146.05 92.71)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6329c81f-0195-4062-826d-a058c5c9a613")
 	)
 	(junction
 		(at 140.97 92.71)
@@ -1388,12 +1490,28 @@
 		(uuid "d6663d85-4ec7-4f9e-bc41-ae70fa02890e")
 	)
 	(no_connect
+		(at 115.57 74.93)
+		(uuid "02b95b47-3ea9-46f5-96f8-adb6f800e0af")
+	)
+	(no_connect
 		(at 80.01 123.19)
 		(uuid "22e6a9f8-7b37-4051-b47a-be01239e4145")
 	)
 	(no_connect
+		(at 115.57 92.71)
+		(uuid "763c3453-91fb-4129-baea-e1247ff7b2cf")
+	)
+	(no_connect
+		(at 115.57 90.17)
+		(uuid "8f7af497-0b41-4fc8-a349-fdbaf449947c")
+	)
+	(no_connect
 		(at 87.63 123.19)
 		(uuid "9c64f0ca-1f8c-4078-a042-216be6a0e90e")
+	)
+	(no_connect
+		(at 115.57 77.47)
+		(uuid "d972eadf-4efe-4afa-974e-2ec23028b082")
 	)
 	(wire
 		(pts
@@ -1414,6 +1532,16 @@
 			(type default)
 		)
 		(uuid "3ad49ff5-4167-45e3-9f51-312bceca7139")
+	)
+	(wire
+		(pts
+			(xy 146.05 92.71) (xy 147.32 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "51b30f54-8c81-4a5c-b68d-a0054889b183")
 	)
 	(wire
 		(pts
@@ -1467,7 +1595,7 @@
 	)
 	(wire
 		(pts
-			(xy 140.97 92.71) (xy 147.32 92.71)
+			(xy 140.97 92.71) (xy 146.05 92.71)
 		)
 		(stroke
 			(width 0)
@@ -1504,6 +1632,16 @@
 			(type default)
 		)
 		(uuid "e9096248-89ec-498a-9521-41614af0a188")
+	)
+	(wire
+		(pts
+			(xy 146.05 92.71) (xy 146.05 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fb8363c9-16f7-4049-8b25-bfbc0ce5347d")
 	)
 	(symbol
 		(lib_id "hadv-connectors:RJ45_LED_Shielded")
@@ -2013,6 +2151,72 @@
 			(project "rj45-screw-terminals"
 				(path "/d87809ff-7d65-4cd2-aab6-9e40d92f859f"
 					(reference "H3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:PWR_FLAG")
+		(at 146.05 97.79 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "df26750a-a1bf-40f8-9899-e108d02fbbf6")
+		(property "Reference" "#FLG01"
+			(at 146.05 99.695 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "PWR_FLAG"
+			(at 146.05 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 146.05 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 146.05 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Special symbol for telling ERC where power comes from"
+			(at 146.05 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "02c09544-1353-45c2-9c3f-f09d4942d99f")
+		)
+		(instances
+			(project ""
+				(path "/d87809ff-7d65-4cd2-aab6-9e40d92f859f"
+					(reference "#FLG01")
 					(unit 1)
 				)
 			)

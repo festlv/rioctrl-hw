@@ -4,6 +4,12 @@
 	(generator_version "8.0")
 	(uuid "bfd5c0ec-375b-45b1-9ad0-4e3c824d4f4c")
 	(paper "A4")
+	(title_block
+		(title "${PROJECTNAME}")
+		(date "2024-08-25")
+		(rev "${VERSION}")
+		(company "R. Veips")
+	)
 	(lib_symbols
 		(symbol "Device:C_Small"
 			(pin_numbers hide)

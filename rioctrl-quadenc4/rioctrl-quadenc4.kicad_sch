@@ -4,6 +4,12 @@
 	(generator_version "8.0")
 	(uuid "d2cd227f-e978-42c2-bb8b-78eaab8a27a1")
 	(paper "A4")
+	(title_block
+		(title "rioctrl-quadenc4")
+		(date "2024-08-25")
+		(rev "${VERSION}")
+		(company "R. Veips")
+	)
 	(lib_symbols)
 	(no_connect
 		(at 120.65 74.93)

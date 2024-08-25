@@ -4,6 +4,12 @@
 	(generator_version "8.0")
 	(uuid "ab751b50-1c46-408f-834f-ef2f3e8625bd")
 	(paper "A4")
+	(title_block
+		(title "rioctrl-stepdir4")
+		(date "2024-08-25")
+		(rev "${VERSION}")
+		(company "R. Veips")
+	)
 	(lib_symbols
 		(symbol "Connector_Generic:Conn_02x13_Odd_Even"
 			(pin_names

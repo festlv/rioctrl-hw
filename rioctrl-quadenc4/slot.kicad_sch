@@ -4,6 +4,12 @@
 	(generator_version "8.0")
 	(uuid "d9d878a6-f5e9-4add-a43d-f18fc3b54aa7")
 	(paper "A4")
+	(title_block
+		(title "rioctrl-quadenc4")
+		(date "2024-08-25")
+		(rev "${VERSION}")
+		(company "R. Veips")
+	)
 	(lib_symbols
 		(symbol "Connector_Generic:Conn_02x13_Odd_Even"
 			(pin_names

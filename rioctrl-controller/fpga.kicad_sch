@@ -4,6 +4,12 @@
 	(generator_version "8.0")
 	(uuid "01d4842f-0e2c-40c1-aebe-d418572665bb")
 	(paper "A3")
+	(title_block
+		(title "${PROJECTNAME}")
+		(date "2024-08-25")
+		(rev "${VERSION}")
+		(company "R. Veips")
+	)
 	(lib_symbols
 		(symbol "Connector_Generic:Conn_02x05_Odd_Even"
 			(pin_names
@@ -7872,6 +7878,10 @@
 		(uuid "1347b9f1-70c7-429e-b5ba-29ff7286cf6c")
 	)
 	(no_connect
+		(at 361.95 52.07)
+		(uuid "17c33e46-4c18-4a04-af93-5f180969fdf8")
+	)
+	(no_connect
 		(at 218.44 96.52)
 		(uuid "1b254cc8-3e34-443c-bcfb-3fd4112b36aa")
 	)
@@ -8787,6 +8797,15 @@
 		(uuid "b3414ebe-24cd-4c89-88fb-80bc8043a9dc")
 	)
 	(bus_entry
+		(at 349.25 49.53)
+		(size 2.54 2.54)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b5d550b6-ef31-4d14-9ab3-aee68e8c77cc")
+	)
+	(bus_entry
 		(at 349.25 25.4)
 		(size -2.54 2.54)
 		(stroke
@@ -9397,6 +9416,16 @@
 	)
 	(wire
 		(pts
+			(xy 351.79 52.07) (xy 361.95 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "19fc71d5-eea0-42e1-a89f-ef3032278571")
+	)
+	(wire
+		(pts
 			(xy 210.82 91.44) (xy 218.44 91.44)
 		)
 		(stroke
@@ -9594,6 +9623,16 @@
 			(type default)
 		)
 		(uuid "249288cd-1cd2-4cce-a429-956786b4e87a")
+	)
+	(bus
+		(pts
+			(xy 349.25 36.83) (xy 349.25 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "25b20b74-23be-43d1-ab23-9ffdc906b844")
 	)
 	(bus
 		(pts
@@ -11034,16 +11073,6 @@
 			(type default)
 		)
 		(uuid "75bb4328-afe8-4fb3-a8c2-13cb9a7ee5f9")
-	)
-	(bus
-		(pts
-			(xy 349.25 36.83) (xy 349.25 43.18)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "75d61c81-0cd1-41f6-bd61-ac32c37318be")
 	)
 	(bus
 		(pts
@@ -15207,6 +15236,17 @@
 			(justify left bottom)
 		)
 		(uuid "c46b6031-250e-46f2-b3aa-0999a4cbbe94")
+	)
+	(label "JTAG.TRST"
+		(at 353.06 52.07 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "c506fab3-b1e3-4763-a697-f5684a9ce8d5")
 	)
 	(label "SA5"
 		(at 19.05 193.04 0)
