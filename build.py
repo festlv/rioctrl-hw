@@ -9,7 +9,8 @@ log = logging.getLogger("build")
 class BuildException(Exception):
     pass
 
-boards = ["rioctrl-controller", "rioctrl-quadenc4", "rioctrl-stepdir4", "breakouts/rj45-screw-terminals", "breakouts/lichuan-lc10"]
+boards = ["rioctrl-controller", "rioctrl-quadenc4", "rioctrl-stepdir4", "rioctrl-shiftio",
+          "breakouts/rj45-screw-terminals", "breakouts/lichuan-lc10"]
 
 def run_cmd(command:str, args: list):
     cmd = [command] + args
