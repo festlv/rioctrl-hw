@@ -27,6 +27,9 @@ def run_cmd(command:str, args: list):
 def run_kicad_cli(args: list):
     return run_cmd("kicad-cli", args)
 
+def run_kicad_nightly_cli(args: list):
+    return run_cmd("kicad-cli-nightly", args)
+
 
 def run_kikit(args: list):
     return run_cmd("kikit", args)
@@ -78,6 +81,10 @@ def build_project(project: str) -> int:
 
     # kikit jlcpcb gerbers&drills
     run_kikit(["fab", "jlcpcb", "--field", "LCSC#", "--nametemplate", projname + "-{}", "--no-drc", "--missingWarn", pcbpath, outpath / "jlcpcb"])
+
+    # 3d render (needs nightly build of kicad with this functionality)
+    run_kicad_nightly_cli(["pcb", "render", "-o", outpath / "board.png", "-D", f"VERSION={version}", pcbpath])
+
     return 0
 
 

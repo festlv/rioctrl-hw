@@ -425,7 +425,7 @@
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(net 30 "unconnected-(J1-Pad9)")
-			(pintype "passive")
+			(pintype "passive+no_connect")
 			(uuid "f1388c13-40c3-4841-ad20-af97a6026c64")
 		)
 		(pad "10" thru_hole circle
@@ -435,7 +435,7 @@
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(net 29 "unconnected-(J1-Pad10)")
-			(pintype "passive")
+			(pintype "passive+no_connect")
 			(uuid "f0222643-6ab7-4855-9dcc-385d58e747fe")
 		)
 		(pad "11" thru_hole circle
@@ -445,7 +445,7 @@
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(net 26 "unconnected-(J1-Pad11)")
-			(pintype "passive")
+			(pintype "passive+no_connect")
 			(uuid "c0e9517d-8760-4f02-82ec-d7ea813f10ff")
 		)
 		(pad "12" thru_hole circle
@@ -455,7 +455,7 @@
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(net 21 "unconnected-(J1-Pad12)")
-			(pintype "passive")
+			(pintype "passive+no_connect")
 			(uuid "172bf573-c85d-466a-a37f-f5b940e7d971")
 		)
 		(pad "SH" thru_hole circle
@@ -551,7 +551,7 @@
 		(path "/ebd7c9e2-1bc9-4535-8b17-ef8e1250d79a")
 		(sheetname "Root")
 		(sheetfile "rj45-screw-terminals.kicad_sch")
-		(attr exclude_from_pos_files exclude_from_bom)
+		(attr exclude_from_pos_files exclude_from_bom dnp)
 		(fp_circle
 			(center 0 0)
 			(end 3.2 0)
@@ -1326,7 +1326,7 @@
 		(path "/c9b8e1ac-0b52-4b69-9839-d9c65ccc76a4")
 		(sheetname "Root")
 		(sheetfile "rj45-screw-terminals.kicad_sch")
-		(attr exclude_from_pos_files exclude_from_bom)
+		(attr exclude_from_pos_files exclude_from_bom dnp)
 		(fp_circle
 			(center 0 0)
 			(end 3.2 0)

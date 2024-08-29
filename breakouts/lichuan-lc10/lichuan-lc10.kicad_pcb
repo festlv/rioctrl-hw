@@ -139,7 +139,7 @@
 		(descr "Through hole straight pin header, 1x03, 2.54mm pitch, single row")
 		(tags "Through hole pin header THT 1x03 2.54mm single row")
 		(property "Reference" "J4"
-			(at 0 -2.33 360)
+			(at 0 -2.33 0)
 			(layer "F.SilkS")
 			(uuid "3570ff02-ab92-4d49-b95a-8b43176ebc2e")
 			(effects
@@ -150,7 +150,7 @@
 			)
 		)
 		(property "Value" "Conn_01x03"
-			(at 0 7.41 360)
+			(at 0 7.41 0)
 			(layer "F.Fab")
 			(uuid "63d59bfe-9ba8-4b6e-a0a6-3a5e1de73a23")
 			(effects
@@ -417,7 +417,7 @@
 		(descr "Through hole straight pin header, 1x02, 2.54mm pitch, single row")
 		(tags "Through hole pin header THT 1x02 2.54mm single row")
 		(property "Reference" "J5"
-			(at 0 -2.33 360)
+			(at 0 -2.33 0)
 			(layer "F.SilkS")
 			(uuid "126dc165-61d1-4ecd-b1b6-68b894e1b22b")
 			(effects
@@ -428,7 +428,7 @@
 			)
 		)
 		(property "Value" "Conn_01x02"
-			(at 0 4.87 360)
+			(at 0 4.87 0)
 			(layer "F.Fab")
 			(uuid "6330d6bc-c169-4338-a36a-a0700b9484aa")
 			(effects
@@ -2707,7 +2707,7 @@
 		(descr "SMD Solder Jumper, 1x1.5mm, rounded Pads, 0.3mm gap, open")
 		(tags "solder jumper open")
 		(property "Reference" "JP2"
-			(at 0 1.8 360)
+			(at 0 1.8 0)
 			(layer "B.SilkS")
 			(uuid "6aa1b52f-3792-4d1e-9dd0-3a6f82adee19")
 			(effects
@@ -2719,7 +2719,7 @@
 			)
 		)
 		(property "Value" "SolderJumper_2_Open"
-			(at 0 -1.9 360)
+			(at 0 -1.9 0)
 			(layer "B.Fab")
 			(uuid "e3d0a2c8-57e9-414d-997a-d8be11e4a943")
 			(effects
@@ -2777,7 +2777,7 @@
 		(sheetname "Root")
 		(sheetfile "lichuan-lc10.kicad_sch")
 		(zone_connect 1)
-		(attr exclude_from_pos_files exclude_from_bom)
+		(attr exclude_from_pos_files exclude_from_bom dnp)
 		(fp_line
 			(start -1.4 0.3)
 			(end -1.4 -0.3)
@@ -2982,7 +2982,7 @@
 		(descr "SMD Solder Jumper, 1x1.5mm, rounded Pads, 0.3mm gap, open")
 		(tags "solder jumper open")
 		(property "Reference" "JP3"
-			(at 3.1 -0.25 360)
+			(at 3.1 -0.25 0)
 			(layer "B.SilkS")
 			(uuid "75c65322-f198-42a2-a72a-99813ef66173")
 			(effects
@@ -2994,7 +2994,7 @@
 			)
 		)
 		(property "Value" "SolderJumper_2_Open"
-			(at 0 -1.9 360)
+			(at 0 -1.9 0)
 			(layer "B.Fab")
 			(uuid "854e3f4a-f846-428c-b9a0-da65dabfe0a5")
 			(effects
@@ -3052,7 +3052,7 @@
 		(sheetname "Root")
 		(sheetfile "lichuan-lc10.kicad_sch")
 		(zone_connect 1)
-		(attr exclude_from_pos_files exclude_from_bom)
+		(attr exclude_from_pos_files exclude_from_bom dnp)
 		(fp_line
 			(start 1.4 -0.3)
 			(end 1.4 0.3)
@@ -3327,7 +3327,7 @@
 		(sheetname "Root")
 		(sheetfile "lichuan-lc10.kicad_sch")
 		(zone_connect 1)
-		(attr exclude_from_pos_files exclude_from_bom)
+		(attr exclude_from_pos_files exclude_from_bom dnp)
 		(fp_line
 			(start 1.4 -0.3)
 			(end 1.4 0.3)
