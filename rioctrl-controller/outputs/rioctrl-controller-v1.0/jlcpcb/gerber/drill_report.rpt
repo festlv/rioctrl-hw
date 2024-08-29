@@ -1,0 +1,39 @@
+Drill report for rioctrl-controller.kicad_pcb
+Created on 2024-08-29T22:42:34+0300
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  In1.Cu                    in1
+    L3 :  In2.Cu                    in2
+    L4 :  B.Cu                      back
+
+
+Drill file 'rioctrl-controller.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.200mm  0.0079"  (267 holes)
+    T2  0.200mm  0.0079"  (12 holes)
+    T3  0.300mm  0.0118"  (344 holes)
+    T4  0.350mm  0.0138"  (9 holes)
+    T5  0.400mm  0.0157"  (20 holes)
+    T6  0.500mm  0.0197"  (20 holes)
+    T7  0.500mm  0.0197"  (64 holes)
+    T8  0.600mm  0.0236"  (4 holes)  (with 4 slots)
+    T9  0.900mm  0.0354"  (8 holes)
+    T10  1.000mm  0.0394"  (38 holes)
+    T11  1.100mm  0.0433"  (4 holes)
+    T12  1.200mm  0.0472"  (4 holes)
+    T13  1.600mm  0.0630"  (2 holes)
+    T14  3.200mm  0.1260"  (8 holes)
+
+    Total plated holes count 804
+
+
+Not plated through holes are merged with plated holes
+    unplated through holes:
+    =============================================================
+    T15  0.650mm  0.0256"  (2 holes)
+    T16  3.200mm  0.1260"  (2 holes)
+
+    Total unplated holes count 4

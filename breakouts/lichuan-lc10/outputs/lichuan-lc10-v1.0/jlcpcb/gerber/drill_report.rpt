@@ -1,0 +1,27 @@
+Drill report for lichuan-lc10.kicad_pcb
+Created on 2024-08-29T22:42:54+0300
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'lichuan-lc10.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.300mm  0.0118"  (4 holes)
+    T2  0.890mm  0.0350"  (24 holes)
+    T3  1.000mm  0.0394"  (57 holes)
+    T4  1.800mm  0.0709"  (4 holes)
+    T5  3.200mm  0.1260"  (2 holes)
+
+    Total plated holes count 91
+
+
+Not plated through holes are merged with plated holes
+    unplated through holes:
+    =============================================================
+    T6  3.250mm  0.1280"  (4 holes)
+
+    Total unplated holes count 4

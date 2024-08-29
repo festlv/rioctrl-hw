@@ -1,0 +1,6 @@
+"Refs","Value","Footprint","Manufacturer","MPN","Qty","DNP","LCSC#"
+"J1,J2","RJ45_LED_Shielded","hadv-connectors:R-RJ45R08P-C000","Ckmtw(Shenzhen Cankemeng)","R-RJ45R08P-C000","2","","C386757"
+"J3","TERM-BLK-8H-S","hadv-connectors:MX250-3.5-08P-B","MAX","MX250-3.5-08P-B-GY01-Cu-A","1","","C7470122"
+"J4","Conn_01x03","Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical","","","1","",""
+"J5","Conn_01x02","Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical","","","1","",""
+"U1","~","Connector_Dsub:DSUB-44-HD_Male_Horizontal_P2.29x1.98mm_EdgePinOffset8.35mm_Housed_MountingHolesOffset10.89mm","Connfly","DS1038-44MBNSIA74-0CC","1","","C77845"

@@ -37,3 +37,10 @@ re-spinning the boards or rework.
 
 ### breakouts/rj45-screw-terminals
 ![breakouts/rj45-screw-terminals](breakouts/rj45-screw-terminals/outputs/rj45-screw-terminals-v1.0/board.png)
+
+## build.py
+
+There is a `build.py` script that publishes outputs to each module `outputs` directory. It uses `<module>/version` file to
+determine the current version, which should be updated accordingly.
+
+For 3D renders of the boards, kicad-nightly package is needed, as the currently stable kicad version does not have board rendering functionality available from command line.

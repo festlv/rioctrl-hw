@@ -76,7 +76,7 @@ def build_project(project: str) -> int:
     run_kicad_cli(["sch", "export", "bom", "-o", outpath / f"bom-{projname}.csv",
                    "--fields", "Reference,Value,Footprint,Manufacturer,MPN,${QUANTITY},${DNP},LCSC#",
                    "--labels", "Refs,Value,Footprint,Manufacturer,MPN,Qty,DNP,LCSC#",
-                   "--group-by", "Value",
+                   "--group-by", "Value,Footprint",
                    schpath])
 
     # kikit jlcpcb gerbers&drills
