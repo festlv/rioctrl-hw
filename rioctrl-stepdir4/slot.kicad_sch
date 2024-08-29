@@ -4289,7 +4289,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "0f440eb6-2382-4c94-b73c-8e4e905ad158")
 		(property "Reference" "H4"
@@ -4554,7 +4554,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "169b8ac3-e615-49dd-9969-efcf9f02dc25")
 		(property "Reference" "H1"
@@ -4725,6 +4725,15 @@
 			)
 		)
 		(property "Description" "Generic connector, double row, 02x13, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 137.16 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" "C2894993"
 			(at 137.16 74.93 0)
 			(effects
 				(font
@@ -5846,6 +5855,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC#" "C98220"
+			(at 203.2 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "09217f21-099c-449d-9e28-ba27579575dc")
 		)
@@ -5913,6 +5931,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC#" "C98220"
+			(at 220.98 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8fc38048-ab6c-4800-8625-75becd9d481d")
 		)
@@ -5972,6 +5999,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 220.98 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" "C98220"
 			(at 220.98 99.06 0)
 			(effects
 				(font
@@ -6231,6 +6267,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 203.2 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" "C98220"
 			(at 203.2 62.23 0)
 			(effects
 				(font
@@ -6861,7 +6906,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "fed14e48-d18f-48a5-b550-6ec88935f1e5")
 		(property "Reference" "H3"
@@ -6928,7 +6973,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "fff83105-e8dc-4e07-bee8-fbb25a78d446")
 		(property "Reference" "H2"

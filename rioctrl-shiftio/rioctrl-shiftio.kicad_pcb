@@ -652,6 +652,19 @@
 				)
 			)
 		)
+		(property "LCSC#" "C98220"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "195ebdc3-05d1-4093-8745-63f7504119fb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/6aad9021-5d48-49a7-bcc6-4c6f53a6b7b2/3325e206-ffc0-41d9-8c1a-0335918f8719")
 		(sheetname "Input shiftreg")
@@ -1434,7 +1447,7 @@
 		(descr "SO, 16 Pin (https://www.nxp.com/docs/en/package-information/SOT109-1.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
 		(tags "SO SO SOT109-1")
 		(property "Reference" "U1"
-			(at 0 -5.9 360)
+			(at 0 -5.9 0)
 			(layer "F.SilkS")
 			(uuid "6e107a39-3c36-4eb7-b902-3572c3ebb318")
 			(effects
@@ -1445,7 +1458,7 @@
 			)
 		)
 		(property "Value" "74HC595"
-			(at 0 5.9 360)
+			(at 0 5.9 0)
 			(layer "F.Fab")
 			(uuid "5f89d22d-4654-4002-a34f-ecb47c29b0fa")
 			(effects
@@ -1681,7 +1694,7 @@
 			(uuid "461c7613-0c18-4979-a21e-c57957193643")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "355c9a62-56f7-4cd8-9ae7-5aaff1974b16")
 			(effects
@@ -1930,6 +1943,19 @@
 				)
 			)
 		)
+		(property "LCSC#" "C105579"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9d4f46a5-e547-450e-8086-87ef81d6da70")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/400c0f37-169a-48ce-93d6-668158024be5/83b7608a-4884-41f6-b3a6-4592a887c63e/f367c709-71d8-47de-9110-4c6765c96910/23bdb3b7-c75b-4a6e-9cea-89e50051053e")
 		(sheetname "Digital output2")
@@ -2143,6 +2169,19 @@
 				)
 			)
 		)
+		(property "LCSC#" "C99782"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f8f66819-116a-4771-aa58-9a1a9fca2dd0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/46956c94-f9d4-4eb6-8471-0c41a6bbbcb1/af485b2d-1b49-454d-a874-a23de1175c33")
 		(sheetname "Slot")
@@ -2352,6 +2391,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC#" "C105579"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d1e40bf9-268e-4674-b957-4506e99c6221")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -2871,6 +2923,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC#" "C105579"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bc2c05e7-0ec1-468f-a0f3-a145af4cc533")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -3696,6 +3761,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC#" "C112305"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b99bec8b-329e-42bf-936c-435a6f71e25e")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -4847,6 +4925,19 @@
 				)
 			)
 		)
+		(property "LCSC#" "C105579"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b01f915c-f170-47b1-bb11-b81b69077644")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/400c0f37-169a-48ce-93d6-668158024be5/1201a7b1-185d-47bd-bcd9-b09c5b171fac/10534d71-0815-4b96-90da-12a731ab1598/23bdb3b7-c75b-4a6e-9cea-89e50051053e")
 		(sheetname "Digital output1")
@@ -5000,7 +5091,7 @@
 		(descr "Chip Resistor Network, ROHM MNR14 (see mnr_g.pdf)")
 		(tags "resistor array")
 		(property "Reference" "RN7"
-			(at 0 -2.8 360)
+			(at 0 -2.8 0)
 			(layer "F.SilkS")
 			(uuid "884c9cf2-3f3c-44d0-8003-42624645076a")
 			(effects
@@ -5011,7 +5102,7 @@
 			)
 		)
 		(property "Value" "4.12K"
-			(at 0 2.8 360)
+			(at 0 2.8 0)
 			(layer "F.Fab")
 			(uuid "657b1c9d-c41a-46f1-a6c2-b2dafb3e2242")
 			(effects
@@ -5056,6 +5147,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC#" "C728970"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fe27a285-1aa0-4515-94db-57e512c39efd")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -5591,7 +5695,7 @@
 		(descr "SO, 16 Pin (https://www.nxp.com/docs/en/package-information/SOT109-1.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
 		(tags "SO SO SOT109-1")
 		(property "Reference" "U8"
-			(at 0 -5.9 360)
+			(at 0 -5.9 0)
 			(layer "F.SilkS")
 			(uuid "6c8bce7e-141d-44bb-91d2-bfbc246ad0e5")
 			(effects
@@ -5602,7 +5706,7 @@
 			)
 		)
 		(property "Value" "74HC165"
-			(at 0 5.9 360)
+			(at 0 5.9 0)
 			(layer "F.Fab")
 			(uuid "9203dd97-4bd6-4825-b95a-4fdfbbca6379")
 			(effects
@@ -5838,7 +5942,7 @@
 			(uuid "323159d6-678b-445f-be82-e0d020c85ce1")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "68e48979-3a0e-43d6-a0d5-b68a664deed2")
 			(effects
@@ -7328,6 +7432,19 @@
 				)
 			)
 		)
+		(property "LCSC#" "C112305"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3979acdc-1d40-4fe9-a1e8-b706f7b44d3f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/400c0f37-169a-48ce-93d6-668158024be5/83b7608a-4884-41f6-b3a6-4592a887c63e/443c1a19-f517-40c9-ac83-069645949a1f/575607cc-b2f2-4c32-9ff7-8325de77a906")
 		(sheetname "Digital output")
@@ -7537,6 +7654,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC#" "C98220"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "51664ad0-2ece-4cc6-bd03-c902c197439e")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -7791,7 +7921,7 @@
 			)
 		)
 		(property ki_fp_filters "DIP*W7.62mm*")
-		(path "/6aad9021-5d48-49a7-bcc6-4c6f53a6b7b2/8637415c-de60-4b9f-98ab-06afa673a17d/64413d49-0b91-4085-b003-a1061aef910e")
+		(path "/6aad9021-5d48-49a7-bcc6-4c6f53a6b7b2/8637415c-de60-4b9f-98ab-06afa673a17d/a8ec6c33-72f1-4386-ae0c-f3df9051371b")
 		(sheetname "DI6")
 		(sheetfile "di4.kicad_sch")
 		(attr smd)
@@ -8211,6 +8341,19 @@
 				)
 			)
 		)
+		(property "LCSC#" "C98220"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f7481e0b-8e71-43e8-9f8a-c197e337ff03")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/400c0f37-169a-48ce-93d6-668158024be5/66afe756-2541-4e49-a1b7-f53b89631aa2/443c1a19-f517-40c9-ac83-069645949a1f/ca109f44-b1f6-4bb8-9c68-954d40584a1f")
 		(sheetname "Digital output")
@@ -8461,7 +8604,7 @@
 			)
 		)
 		(property ki_fp_filters "DIP*W7.62mm*")
-		(path "/6aad9021-5d48-49a7-bcc6-4c6f53a6b7b2/e57b1c12-5d9d-4355-b10f-4ab46e32032a/64413d49-0b91-4085-b003-a1061aef910e")
+		(path "/6aad9021-5d48-49a7-bcc6-4c6f53a6b7b2/e57b1c12-5d9d-4355-b10f-4ab46e32032a/a8ec6c33-72f1-4386-ae0c-f3df9051371b")
 		(sheetname "DI4")
 		(sheetfile "di4.kicad_sch")
 		(attr smd)
@@ -8881,6 +9024,19 @@
 				)
 			)
 		)
+		(property "LCSC#" "C14663"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a4a8b3a6-4f69-4a73-ae79-ed52973b47e0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/6aad9021-5d48-49a7-bcc6-4c6f53a6b7b2/cbf15418-1716-4c4e-9931-88595bdd0d93")
 		(sheetname "Input shiftreg")
@@ -9034,7 +9190,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C2"
-			(at 0 -1.43 360)
+			(at 0 -1.43 0)
 			(layer "F.SilkS")
 			(uuid "282443ff-cb92-4bb0-bbb7-eed45926401b")
 			(effects
@@ -9045,7 +9201,7 @@
 			)
 		)
 		(property "Value" "0.1uF"
-			(at 0 1.43 360)
+			(at 0 1.43 0)
 			(layer "F.Fab")
 			(uuid "5dd4cfbf-0d1d-4ca0-befe-572e1f90d7c3")
 			(effects
@@ -9090,6 +9246,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC#" "C14663"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "83b62abf-27d0-4229-8a1d-97768e962146")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -9200,7 +9369,7 @@
 			(uuid "22f45b55-3d42-4b7e-aaf5-521854d2c2e0")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "a5114e30-25dc-41a1-b3b9-1f6889b40313")
 			(effects
@@ -9303,6 +9472,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC#" "C105579"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f150cd4c-d715-414f-9c19-dc10e0fabe89")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -9844,6 +10026,19 @@
 				)
 			)
 		)
+		(property "LCSC#" "C728970"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d55ddbdb-9040-46f3-a342-99a69e484b05")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "DIP* SOIC* R*Array*Concave* R*Array*Convex* MSOP*")
 		(path "/6aad9021-5d48-49a7-bcc6-4c6f53a6b7b2/e57b1c12-5d9d-4355-b10f-4ab46e32032a/1664f6a0-3a4d-4d53-80b9-c958697749a3")
 		(sheetname "DI4")
@@ -9950,7 +10145,7 @@
 			(uuid "8809f4d8-6f96-4cb2-bf10-a5ae942ca980")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "48485874-fb37-456a-98aa-3983787b917e")
 			(effects
@@ -10568,6 +10763,19 @@
 				)
 			)
 		)
+		(property "LCSC#" "C728970"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6f9dd0ff-3c8e-4331-b083-b3d2ce1b5067")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "DIP* SOIC* R*Array*Concave* R*Array*Convex* MSOP*")
 		(path "/6aad9021-5d48-49a7-bcc6-4c6f53a6b7b2/0f16b432-6f0c-44ec-b1b1-64df60866624/1664f6a0-3a4d-4d53-80b9-c958697749a3")
 		(sheetname "DI5")
@@ -10674,7 +10882,7 @@
 			(uuid "d47feee6-9329-41e8-9f87-ec0b2affc3d0")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "cc58bf93-5828-4398-bf4c-aad6fabfda7e")
 			(effects
@@ -10835,6 +11043,19 @@
 				)
 			)
 		)
+		(property "LCSC#" "C98220"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5582ed23-1b3f-4c16-b625-ce65a37b0cf1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/400c0f37-169a-48ce-93d6-668158024be5/3fcac6f5-93b1-4a1d-859b-f9703e34d9d4/443c1a19-f517-40c9-ac83-069645949a1f/ca109f44-b1f6-4bb8-9c68-954d40584a1f")
 		(sheetname "Digital output")
@@ -10988,7 +11209,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C1"
-			(at 0 -1.43 360)
+			(at 0 -1.43 0)
 			(layer "F.SilkS")
 			(uuid "407bd19c-de92-468d-8634-93489a61585c")
 			(effects
@@ -10999,7 +11220,7 @@
 			)
 		)
 		(property "Value" "0.1uF"
-			(at 0 1.43 360)
+			(at 0 1.43 0)
 			(layer "F.Fab")
 			(uuid "d0c83db9-220b-4300-82e8-d57257bf0bf0")
 			(effects
@@ -11044,6 +11265,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC#" "C14663"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0a8771bd-6eb1-4336-9bd1-bd085d63fe3a")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -11154,7 +11388,7 @@
 			(uuid "ebf01c19-dfb4-46a8-a5e5-cb323f5af0c8")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "d6ac783d-3811-4d49-b8f1-064d9b51d517")
 			(effects
@@ -11257,6 +11491,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC#" "C105579"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3f95eeb1-c8d0-429a-aa69-d9d7cec4acbe")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -11779,6 +12026,19 @@
 				)
 			)
 		)
+		(property "LCSC#" "C98220"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "86aaa337-abbc-43a9-a564-aa68b0ccc1a6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/400c0f37-169a-48ce-93d6-668158024be5/3fcac6f5-93b1-4a1d-859b-f9703e34d9d4/10534d71-0815-4b96-90da-12a731ab1598/ca109f44-b1f6-4bb8-9c68-954d40584a1f")
 		(sheetname "Digital output1")
@@ -12293,6 +12553,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC#" "C98220"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "738ca977-67ed-4425-8602-079cd36ace0c")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -13120,6 +13393,19 @@
 				)
 			)
 		)
+		(property "LCSC#" "C112305"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "19fe05b0-4d47-44a5-825b-d00cc44d28f8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/400c0f37-169a-48ce-93d6-668158024be5/66afe756-2541-4e49-a1b7-f53b89631aa2/10534d71-0815-4b96-90da-12a731ab1598/575607cc-b2f2-4c32-9ff7-8325de77a906")
 		(sheetname "Digital output1")
@@ -13638,6 +13924,19 @@
 				)
 			)
 		)
+		(property "LCSC#" "C112305"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "525f6b32-01e6-4e7b-82e7-f1e7f01707c2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/400c0f37-169a-48ce-93d6-668158024be5/3fcac6f5-93b1-4a1d-859b-f9703e34d9d4/53cb5e8d-20a1-433d-97e7-bdba298b9ee6/575607cc-b2f2-4c32-9ff7-8325de77a906")
 		(sheetname "Digital output3")
@@ -13851,6 +14150,19 @@
 				)
 			)
 		)
+		(property "LCSC#" "C98220"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "18fa81d3-9e96-4241-9300-0fa7111b15c0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/400c0f37-169a-48ce-93d6-668158024be5/1201a7b1-185d-47bd-bcd9-b09c5b171fac/53cb5e8d-20a1-433d-97e7-bdba298b9ee6/ca109f44-b1f6-4bb8-9c68-954d40584a1f")
 		(sheetname "Digital output3")
@@ -14060,6 +14372,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC#" "C112305"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a87d0ce5-91ef-4401-be91-0e5a53f3a82b")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -14532,7 +14857,7 @@
 				)
 			)
 		)
-		(property "Value" "R_Pack04"
+		(property "Value" "220R"
 			(at 0 2.8 90)
 			(layer "F.Fab")
 			(uuid "b43128d0-77a1-4911-9bfe-b7e1737f0102")
@@ -14578,6 +14903,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC#" "C706474"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3e7a638b-9b25-420c-a242-6b6547ea8d95")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -14688,7 +15026,7 @@
 			(uuid "88276d77-47e4-4e24-b72d-b981a4125b8c")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "e00a8f09-9598-4f34-946f-eb732e138c5f")
 			(effects
@@ -14845,6 +15183,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC#" "C98220"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3feb63a9-c014-4a2d-994a-4f223e183972")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -15326,7 +15677,7 @@
 		(descr "SO, 16 Pin (https://www.nxp.com/docs/en/package-information/SOT109-1.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
 		(tags "SO SO SOT109-1")
 		(property "Reference" "U2"
-			(at 0 -5.9 360)
+			(at 0 -5.9 0)
 			(layer "F.SilkS")
 			(uuid "a4260240-fa1e-4723-8b70-01f1b72742b1")
 			(effects
@@ -15337,7 +15688,7 @@
 			)
 		)
 		(property "Value" "74HC595"
-			(at 0 5.9 360)
+			(at 0 5.9 0)
 			(layer "F.Fab")
 			(uuid "4f5cae48-3e70-43fd-8d2d-8606c061ae03")
 			(effects
@@ -15573,7 +15924,7 @@
 			(uuid "af429da6-23c7-43d3-8095-1fea6d178a30")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "e1cd7529-2f01-4d8c-8ee7-dc08d9a9fe7a")
 			(effects
@@ -15818,6 +16169,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC#" "C105579"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "31ec4eb5-cd94-42b6-9e31-55841dff2216")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -16492,6 +16856,19 @@
 				)
 			)
 		)
+		(property "LCSC#" "C112305"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "493fc22f-4c9a-4621-a242-d4fd05375240")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/400c0f37-169a-48ce-93d6-668158024be5/1201a7b1-185d-47bd-bcd9-b09c5b171fac/443c1a19-f517-40c9-ac83-069645949a1f/575607cc-b2f2-4c32-9ff7-8325de77a906")
 		(sheetname "Digital output")
@@ -16705,6 +17082,19 @@
 				)
 			)
 		)
+		(property "LCSC#" "C98220"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "52df0fef-c8f5-4993-8bde-b2d47facde25")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/400c0f37-169a-48ce-93d6-668158024be5/66afe756-2541-4e49-a1b7-f53b89631aa2/f367c709-71d8-47de-9110-4c6765c96910/ca109f44-b1f6-4bb8-9c68-954d40584a1f")
 		(sheetname "Digital output2")
@@ -16858,7 +17248,7 @@
 		(descr "Chip Resistor Network, ROHM MNR14 (see mnr_g.pdf)")
 		(tags "resistor array")
 		(property "Reference" "RN9"
-			(at -1 -2.75 360)
+			(at -1 -2.75 0)
 			(layer "F.SilkS")
 			(uuid "942236da-e9e3-4a48-957a-0fada3fdaef6")
 			(effects
@@ -16869,7 +17259,7 @@
 			)
 		)
 		(property "Value" "4.12K"
-			(at 0 2.8 360)
+			(at 0 2.8 0)
 			(layer "F.Fab")
 			(uuid "1e2e967a-3794-480c-b472-e6c8bb7a34ce")
 			(effects
@@ -16914,6 +17304,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC#" "C728970"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1d977740-ca61-4831-801c-3da5a70226d3")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -17185,6 +17588,19 @@
 				)
 			)
 		)
+		(property "LCSC#" "C98220"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3322f751-885b-4300-8171-f5b748a34756")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/400c0f37-169a-48ce-93d6-668158024be5/83b7608a-4884-41f6-b3a6-4592a887c63e/10534d71-0815-4b96-90da-12a731ab1598/ca109f44-b1f6-4bb8-9c68-954d40584a1f")
 		(sheetname "Digital output1")
@@ -17394,6 +17810,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC#" "C112305"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fd4fa1a8-1b63-4369-9cc4-96288c385c43")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -17917,6 +18346,19 @@
 				)
 			)
 		)
+		(property "LCSC#" "C105579"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c52ea909-876f-4a48-a917-57d3dd0057e6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/400c0f37-169a-48ce-93d6-668158024be5/3fcac6f5-93b1-4a1d-859b-f9703e34d9d4/10534d71-0815-4b96-90da-12a731ab1598/23bdb3b7-c75b-4a6e-9cea-89e50051053e")
 		(sheetname "Digital output1")
@@ -18080,7 +18522,7 @@
 				)
 			)
 		)
-		(property "Value" "R_Pack04"
+		(property "Value" "220R"
 			(at 0 2.8 90)
 			(layer "F.Fab")
 			(uuid "b65a5604-39e1-462f-96c8-0772e138d983")
@@ -18126,6 +18568,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC#" "C706474"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8de61e51-e088-466e-a7fc-9db999c28d64")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -18236,7 +18691,7 @@
 			(uuid "879497dc-a6f8-4078-8224-4d2303e8f45e")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "6ee7f997-63a3-4cf8-b5df-6821af94a009")
 			(effects
@@ -18700,6 +19155,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC#" "C2894993"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "601614e2-20cb-4cec-960e-c56f978b4cb9")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -20730,7 +21198,7 @@
 			(uuid "81f95ce6-598d-410c-a82f-81eb148a331d")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 5.31 15.24 360)
+			(at 5.31 15.24 0)
 			(layer "F.Fab")
 			(uuid "200901db-280b-4df1-8d48-e2494c125ce9")
 			(effects
@@ -21105,6 +21573,19 @@
 				)
 			)
 		)
+		(property "LCSC#" "C112305"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9f83ce21-7f0f-48c2-8920-bce1346ef96a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/400c0f37-169a-48ce-93d6-668158024be5/1201a7b1-185d-47bd-bcd9-b09c5b171fac/f367c709-71d8-47de-9110-4c6765c96910/575607cc-b2f2-4c32-9ff7-8325de77a906")
 		(sheetname "Digital output2")
@@ -21314,6 +21795,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC#" "C112305"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2784a656-0a8f-4104-bdde-418b819833f7")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -21837,6 +22331,19 @@
 				)
 			)
 		)
+		(property "LCSC#" "C98220"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ef3ffdcd-40c2-4d80-9ae3-9af39183a957")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/400c0f37-169a-48ce-93d6-668158024be5/83b7608a-4884-41f6-b3a6-4592a887c63e/53cb5e8d-20a1-433d-97e7-bdba298b9ee6/ca109f44-b1f6-4bb8-9c68-954d40584a1f")
 		(sheetname "Digital output3")
@@ -22050,6 +22557,19 @@
 				)
 			)
 		)
+		(property "LCSC#" "C98220"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5a37fc4e-22cd-4264-93f6-e996988d0bfe")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/400c0f37-169a-48ce-93d6-668158024be5/66afe756-2541-4e49-a1b7-f53b89631aa2/10534d71-0815-4b96-90da-12a731ab1598/ca109f44-b1f6-4bb8-9c68-954d40584a1f")
 		(sheetname "Digital output1")
@@ -22203,7 +22723,7 @@
 		(descr "Chip Resistor Network, ROHM MNR14 (see mnr_g.pdf)")
 		(tags "resistor array")
 		(property "Reference" "RN11"
-			(at 0 -2.8 360)
+			(at 0 -2.8 0)
 			(layer "F.SilkS")
 			(uuid "2f7e42b5-15fb-45a1-a9f7-69aff32c94f0")
 			(effects
@@ -22214,7 +22734,7 @@
 			)
 		)
 		(property "Value" "4.12K"
-			(at 0 2.8 360)
+			(at 0 2.8 0)
 			(layer "F.Fab")
 			(uuid "f28f9bb8-a27c-4abc-8e36-8db4191c2bea")
 			(effects
@@ -22259,6 +22779,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC#" "C728970"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "27376dbb-4ba7-4681-9799-9605bd24da5e")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -22526,6 +23059,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC#" "C98220"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "db8a5daa-4591-4420-a5d7-57cbb7fffa20")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -23067,6 +23613,19 @@
 				)
 			)
 		)
+		(property "LCSC#" "C105579"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "986df2a7-c284-41b2-9d15-9a0ad0804ffb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/400c0f37-169a-48ce-93d6-668158024be5/1201a7b1-185d-47bd-bcd9-b09c5b171fac/443c1a19-f517-40c9-ac83-069645949a1f/23bdb3b7-c75b-4a6e-9cea-89e50051053e")
 		(sheetname "Digital output")
@@ -23490,7 +24049,7 @@
 				)
 			)
 		)
-		(property "Value" "R_Pack04"
+		(property "Value" "220R"
 			(at 0 2.8 90)
 			(layer "F.Fab")
 			(uuid "2c1e172f-6e29-4b29-92f4-5569b45b90b0")
@@ -23536,6 +24095,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC#" "C706474"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "990be939-be41-4c8c-8824-593251e02d8d")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -23646,7 +24218,7 @@
 			(uuid "01ca2336-e173-4d3f-acf9-4f00cf3f60de")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "b84ff714-660d-49ac-b723-e65af19b4a96")
 			(effects
@@ -24570,6 +25142,19 @@
 				)
 			)
 		)
+		(property "LCSC#" "C112305"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "21ed1e99-e59e-4bd5-a884-69f45566847f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/400c0f37-169a-48ce-93d6-668158024be5/3fcac6f5-93b1-4a1d-859b-f9703e34d9d4/10534d71-0815-4b96-90da-12a731ab1598/575607cc-b2f2-4c32-9ff7-8325de77a906")
 		(sheetname "Digital output1")
@@ -24783,6 +25368,19 @@
 				)
 			)
 		)
+		(property "LCSC#" "C112305"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3551259e-3925-4e6f-b8f7-3a8f6d028599")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/400c0f37-169a-48ce-93d6-668158024be5/83b7608a-4884-41f6-b3a6-4592a887c63e/10534d71-0815-4b96-90da-12a731ab1598/575607cc-b2f2-4c32-9ff7-8325de77a906")
 		(sheetname "Digital output1")
@@ -24992,6 +25590,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC#" "C105579"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "91635fb1-2eee-4725-98d3-a0b38a940713")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -25246,7 +25857,7 @@
 			)
 		)
 		(property ki_fp_filters "DIP*W7.62mm*")
-		(path "/6aad9021-5d48-49a7-bcc6-4c6f53a6b7b2/0f16b432-6f0c-44ec-b1b1-64df60866624/64413d49-0b91-4085-b003-a1061aef910e")
+		(path "/6aad9021-5d48-49a7-bcc6-4c6f53a6b7b2/0f16b432-6f0c-44ec-b1b1-64df60866624/a8ec6c33-72f1-4386-ae0c-f3df9051371b")
 		(sheetname "DI5")
 		(sheetfile "di4.kicad_sch")
 		(attr smd)
@@ -25922,6 +26533,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC#" "C105579"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8341c709-a3aa-4b99-85f0-44d216b93bec")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -26775,7 +27399,7 @@
 		(path "/46956c94-f9d4-4eb6-8471-0c41a6bbbcb1/ae0dfa11-6ca3-4254-923e-b968db8c618d")
 		(sheetname "Slot")
 		(sheetfile "slot.kicad_sch")
-		(attr exclude_from_pos_files exclude_from_bom)
+		(attr exclude_from_pos_files exclude_from_bom dnp)
 		(fp_circle
 			(center 0 0)
 			(end 3.2 0)
@@ -26981,6 +27605,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC#" "C98220"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ca6f300f-b338-4985-8f65-5c57298a6ce2")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -27444,7 +28081,7 @@
 		(descr "SO, 16 Pin (https://www.nxp.com/docs/en/package-information/SOT109-1.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
 		(tags "SO SO SOT109-1")
 		(property "Reference" "U7"
-			(at 0 -5.9 360)
+			(at 0 -5.9 0)
 			(layer "F.SilkS")
 			(uuid "b083ce82-875b-43d3-b6fd-6475169b2dbc")
 			(effects
@@ -27455,7 +28092,7 @@
 			)
 		)
 		(property "Value" "74HC165"
-			(at 0 5.9 360)
+			(at 0 5.9 0)
 			(layer "F.Fab")
 			(uuid "911597ca-f2a0-43e4-a442-68635bdf923a")
 			(effects
@@ -27691,7 +28328,7 @@
 			(uuid "fcfa9833-4176-4827-9b2d-6eae9f96c2e1")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "c38fee5f-81f4-46a6-bf20-9e96d840ebcc")
 			(effects
@@ -28264,6 +28901,19 @@
 				)
 			)
 		)
+		(property "LCSC#" "C105579"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "489b6e0d-3dc5-4dcc-bfa3-2cc8ad961ac2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/400c0f37-169a-48ce-93d6-668158024be5/66afe756-2541-4e49-a1b7-f53b89631aa2/443c1a19-f517-40c9-ac83-069645949a1f/23bdb3b7-c75b-4a6e-9cea-89e50051053e")
 		(sheetname "Digital output")
@@ -28473,6 +29123,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC#" "C105579"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "88c1d6df-ed02-425f-b165-e88774b8d215")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -29357,7 +30020,7 @@
 				)
 			)
 		)
-		(property "Value" "R_Pack04"
+		(property "Value" "220R"
 			(at 0 2.8 90)
 			(layer "F.Fab")
 			(uuid "22c4a024-cf45-46d7-9089-75dcf934aefb")
@@ -29403,6 +30066,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC#" "C706474"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ccbc1e31-0a1f-41bb-bef9-4dfae3f2a952")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -29513,7 +30189,7 @@
 			(uuid "d58a1277-7183-48be-ab39-b0731218bc4a")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "18dda1d8-28c0-4306-8620-b6bfc09f9292")
 			(effects
@@ -29670,6 +30346,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC#" "C105579"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1d244c43-04f2-49e7-a842-027718c0610c")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -29887,6 +30576,19 @@
 				)
 			)
 		)
+		(property "LCSC#" "C105579"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a790924c-e71d-40e7-95ca-b14d9e18cc4a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/400c0f37-169a-48ce-93d6-668158024be5/83b7608a-4884-41f6-b3a6-4592a887c63e/10534d71-0815-4b96-90da-12a731ab1598/23bdb3b7-c75b-4a6e-9cea-89e50051053e")
 		(sheetname "Digital output1")
@@ -30096,6 +30798,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC#" "C14663"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "515e99d1-7921-4b95-8c1a-c94bd0f4f92c")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -30942,6 +31657,19 @@
 				)
 			)
 		)
+		(property "LCSC#" "C112305"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "25f6b65e-745e-4d71-84e6-df0ba15c9057")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/400c0f37-169a-48ce-93d6-668158024be5/1201a7b1-185d-47bd-bcd9-b09c5b171fac/10534d71-0815-4b96-90da-12a731ab1598/575607cc-b2f2-4c32-9ff7-8325de77a906")
 		(sheetname "Digital output1")
@@ -31161,7 +31889,7 @@
 		(path "/46956c94-f9d4-4eb6-8471-0c41a6bbbcb1/219d698b-5c10-417c-ae08-c05cdf43b4ac")
 		(sheetname "Slot")
 		(sheetfile "slot.kicad_sch")
-		(attr exclude_from_pos_files exclude_from_bom)
+		(attr exclude_from_pos_files exclude_from_bom dnp)
 		(fp_circle
 			(center 0 0)
 			(end 3.2 0)
@@ -31981,6 +32709,19 @@
 				)
 			)
 		)
+		(property "LCSC#" "C112305"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3aa396d1-1148-406a-877f-7f17be314580")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/400c0f37-169a-48ce-93d6-668158024be5/1201a7b1-185d-47bd-bcd9-b09c5b171fac/53cb5e8d-20a1-433d-97e7-bdba298b9ee6/575607cc-b2f2-4c32-9ff7-8325de77a906")
 		(sheetname "Digital output3")
@@ -32194,6 +32935,19 @@
 				)
 			)
 		)
+		(property "LCSC#" "C728970"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1ad9278b-a8ac-4aad-b886-85ec0a656bfc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "DIP* SOIC* R*Array*Concave* R*Array*Convex* MSOP*")
 		(path "/6aad9021-5d48-49a7-bcc6-4c6f53a6b7b2/8637415c-de60-4b9f-98ab-06afa673a17d/1664f6a0-3a4d-4d53-80b9-c958697749a3")
 		(sheetname "DI6")
@@ -32300,7 +33054,7 @@
 			(uuid "f05037c6-8742-476c-8408-114bf058a5fc")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "b9690ae8-eff5-4686-bf0b-42b99effceb2")
 			(effects
@@ -33354,7 +34108,7 @@
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R4"
-			(at 0 -1.43 360)
+			(at 0 -1.43 0)
 			(layer "F.SilkS")
 			(uuid "f9adf346-b6f5-4fc9-8c20-3eac00ba380b")
 			(effects
@@ -33365,7 +34119,7 @@
 			)
 		)
 		(property "Value" "10K"
-			(at 0 1.43 360)
+			(at 0 1.43 0)
 			(layer "F.Fab")
 			(uuid "6b654a84-5467-49cf-83cd-ea888762059a")
 			(effects
@@ -33410,6 +34164,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC#" "C98220"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7d7c31d6-de43-42b2-8f22-97ecb3734b88")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -33520,7 +34287,7 @@
 			(uuid "af081867-249a-4942-b70e-d70ba21018f8")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "11517caf-a3f9-42e1-b515-8d2f82872b0f")
 			(effects
@@ -34197,7 +34964,7 @@
 		(descr "SOT-323, SC-70")
 		(tags "SOT-323 SC-70")
 		(property "Reference" "Q1"
-			(at -0.05 -2.25 360)
+			(at -0.05 -2.25 0)
 			(layer "F.SilkS")
 			(uuid "041ef492-5d7c-4891-9d25-19455f4862d9")
 			(effects
@@ -34208,7 +34975,7 @@
 			)
 		)
 		(property "Value" "BSS138W"
-			(at -0.05 2.05 360)
+			(at -0.05 2.05 0)
 			(layer "F.Fab")
 			(uuid "7b866cf6-0235-43c3-96c5-facb82148dc6")
 			(effects
@@ -34599,7 +35366,7 @@
 			)
 		)
 		(property ki_fp_filters "DIP*W7.62mm*")
-		(path "/6aad9021-5d48-49a7-bcc6-4c6f53a6b7b2/05105502-7549-43d1-a291-7f1251173bab/64413d49-0b91-4085-b003-a1061aef910e")
+		(path "/6aad9021-5d48-49a7-bcc6-4c6f53a6b7b2/05105502-7549-43d1-a291-7f1251173bab/a8ec6c33-72f1-4386-ae0c-f3df9051371b")
 		(sheetname "DI7")
 		(sheetfile "di4.kicad_sch")
 		(attr smd)
@@ -35019,6 +35786,19 @@
 				)
 			)
 		)
+		(property "LCSC#" "C728970"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c308a08d-7ff9-41e5-b454-1ab400df22c8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "DIP* SOIC* R*Array*Concave* R*Array*Convex* MSOP*")
 		(path "/6aad9021-5d48-49a7-bcc6-4c6f53a6b7b2/e57b1c12-5d9d-4355-b10f-4ab46e32032a/185b94a7-5da7-413b-b625-9ffc496a42f8")
 		(sheetname "DI4")
@@ -35282,6 +36062,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC#" "C112305"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f235492c-8ec7-42b1-bf73-b47640fed603")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -35765,7 +36558,7 @@
 		(path "/46956c94-f9d4-4eb6-8471-0c41a6bbbcb1/0a3a08af-75ea-41a3-a6d7-558b8532ed38")
 		(sheetname "Slot")
 		(sheetfile "slot.kicad_sch")
-		(attr exclude_from_pos_files exclude_from_bom)
+		(attr exclude_from_pos_files exclude_from_bom dnp)
 		(fp_circle
 			(center 0 0)
 			(end 3.2 0)
@@ -36585,6 +37378,19 @@
 				)
 			)
 		)
+		(property "LCSC#" "C105579"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e568eaa1-18d6-4873-befa-5dbb9d22fdf7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/400c0f37-169a-48ce-93d6-668158024be5/1201a7b1-185d-47bd-bcd9-b09c5b171fac/53cb5e8d-20a1-433d-97e7-bdba298b9ee6/23bdb3b7-c75b-4a6e-9cea-89e50051053e")
 		(sheetname "Digital output3")
@@ -36794,6 +37600,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC#" "C98220"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e05d87cd-3769-4fa0-acd0-29ee2eab581e")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -37312,6 +38131,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC#" "C112305"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "21c932c4-47b5-4508-9999-7686e311db6d")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -37853,6 +38685,19 @@
 				)
 			)
 		)
+		(property "LCSC#" "C98220"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "abc9e1fd-fc97-4c20-8bb6-13928649ef0d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/46956c94-f9d4-4eb6-8471-0c41a6bbbcb1/54d573f7-35c4-44aa-ad1d-7aeb3ed6995e")
 		(sheetname "Slot")
@@ -38066,6 +38911,19 @@
 				)
 			)
 		)
+		(property "LCSC#" "C728970"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e8c71dac-d876-4114-a60f-d11187357b6a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "DIP* SOIC* R*Array*Concave* R*Array*Convex* MSOP*")
 		(path "/6aad9021-5d48-49a7-bcc6-4c6f53a6b7b2/05105502-7549-43d1-a291-7f1251173bab/1664f6a0-3a4d-4d53-80b9-c958697749a3")
 		(sheetname "DI7")
@@ -38172,7 +39030,7 @@
 			(uuid "28ba84b4-3ac5-4d01-8374-4cb660c6e5b9")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "a928509f-5c29-42b8-8b37-b9a8c5dbccf4")
 			(effects
@@ -38329,6 +39187,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC#" "C98220"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6855cf69-76ee-463e-b5c6-4b0e9ff3075e")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -38552,7 +39423,7 @@
 		(path "/46956c94-f9d4-4eb6-8471-0c41a6bbbcb1/18741ee4-319b-4980-a3cb-30d2c9cf64d0")
 		(sheetname "Slot")
 		(sheetfile "slot.kicad_sch")
-		(attr exclude_from_pos_files exclude_from_bom)
+		(attr exclude_from_pos_files exclude_from_bom dnp)
 		(fp_circle
 			(center 0 0)
 			(end 3.2 0)
@@ -39390,6 +40261,19 @@
 				)
 			)
 		)
+		(property "LCSC#" "C98220"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "60fde920-141c-4a79-aa78-dca16ea3df76")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/6aad9021-5d48-49a7-bcc6-4c6f53a6b7b2/62521e02-c564-4bfa-9228-36c8c8a38e52")
 		(sheetname "Input shiftreg")
@@ -39867,7 +40751,7 @@
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R3"
-			(at 0 -1.43 360)
+			(at 0 -1.43 0)
 			(layer "F.SilkS")
 			(uuid "477b9446-0166-4ac7-b230-cae86460a6f9")
 			(effects
@@ -39878,7 +40762,7 @@
 			)
 		)
 		(property "Value" "10K"
-			(at 0 1.43 360)
+			(at 0 1.43 0)
 			(layer "F.Fab")
 			(uuid "523ca610-63da-47f0-8496-18fdc264e681")
 			(effects
@@ -39923,6 +40807,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC#" "C98220"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b1f5879a-5c3f-4029-8693-5e3280cd0b39")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -40033,7 +40930,7 @@
 			(uuid "4f4164ea-96b9-43b5-ac98-eb3fad73024a")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "4e997101-e213-4d98-a05a-5887268c0a69")
 			(effects
@@ -40136,6 +41033,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC#" "C98220"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ad5c5d75-1ebc-494c-8aea-1dc9c827820f")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -40659,6 +41569,19 @@
 				)
 			)
 		)
+		(property "LCSC#" "C112305"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "57fd3e8c-b977-473a-9e3c-eddeec5abf1f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/400c0f37-169a-48ce-93d6-668158024be5/83b7608a-4884-41f6-b3a6-4592a887c63e/53cb5e8d-20a1-433d-97e7-bdba298b9ee6/575607cc-b2f2-4c32-9ff7-8325de77a906")
 		(sheetname "Digital output3")
@@ -40868,6 +41791,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC#" "C98220"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "90d1ec4c-37a2-4c59-898d-a2e6fbb29db1")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)

@@ -3101,6 +3101,7 @@
 	)
 	(label "INA8"
 		(at 229.87 55.88 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3155,6 +3156,7 @@
 	)
 	(label "INA6"
 		(at 229.87 53.34 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3209,6 +3211,7 @@
 	)
 	(label "INA1"
 		(at 210.82 48.26 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3219,6 +3222,7 @@
 	)
 	(label "INA2"
 		(at 229.87 48.26 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3262,6 +3266,7 @@
 	)
 	(label "INA1"
 		(at 182.88 44.45 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3349,6 +3354,7 @@
 	)
 	(label "INA4"
 		(at 229.87 50.8 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3574,6 +3580,15 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 127 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" "C98220"
 			(at 127 80.01 0)
 			(effects
 				(font
@@ -3850,6 +3865,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC#" "C98220"
+			(at 127 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b6de30ae-e211-4f08-80be-d75c10b5bb86")
 		)
@@ -4105,6 +4129,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC#" "C14663"
+			(at 101.6 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b7b40eac-1eab-4679-bf57-0f52e281d186")
 		)
@@ -4166,6 +4199,15 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 132.08 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" "C98220"
 			(at 132.08 119.38 0)
 			(effects
 				(font
@@ -4767,6 +4809,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 101.6 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" "C14663"
 			(at 101.6 106.68 0)
 			(effects
 				(font

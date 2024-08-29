@@ -16022,6 +16022,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC#" "C56392"
+			(at 260.35 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "281473a4-e5b3-42ff-923d-67dde74f2c0a")
 		)
@@ -16258,6 +16267,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC#" "C56392"
+			(at 241.3 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "441c700c-9b65-43a3-9d43-ba276cc3d6e4")
 		)
@@ -16346,7 +16364,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "143282b2-148c-4a76-b92d-3acf457122f5")
 		(property "Reference" "TP11"
@@ -16461,6 +16479,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC#" "C56392"
+			(at 354.33 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "4d860edb-a6fb-46dc-bd9b-87a249718a8a")
 		)
@@ -16543,6 +16570,15 @@
 			)
 		)
 		(property "Manufacturer" "Lattice"
+			(at 217.17 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" "C1550762"
 			(at 217.17 184.15 0)
 			(effects
 				(font
@@ -17383,6 +17419,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC#" "C105881"
+			(at 439.42 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "e463a159-8a46-4ebb-a548-cdb5aba6b87f")
 		)
@@ -17537,7 +17582,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "1f9ca2ec-ccde-4d7e-82e5-361234141283")
 		(property "Reference" "TP10"
@@ -17644,6 +17689,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 387.35 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" "C56392"
 			(at 387.35 62.23 0)
 			(effects
 				(font
@@ -17780,6 +17834,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 82.55 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" "C56392"
 			(at 82.55 160.02 0)
 			(effects
 				(font
@@ -18055,6 +18118,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC#" "C105881"
+			(at 439.42 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "23a62b02-61d9-4b8f-a9f0-87006d4651c2")
 		)
@@ -18117,6 +18189,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 382.27 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" "C56392"
 			(at 382.27 62.23 0)
 			(effects
 				(font
@@ -18261,6 +18342,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC#" "C56392"
+			(at 170.18 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "1072e77d-4cb9-4731-9c10-a28506965c2d")
 		)
@@ -18332,6 +18422,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC#" "C56392"
+			(at 162.56 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "d547a2d0-a815-48f3-90f1-0c3eeb6ff63d")
 		)
@@ -18394,6 +18493,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 166.37 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" "C56392"
 			(at 166.37 33.02 0)
 			(effects
 				(font
@@ -18485,6 +18593,15 @@
 			)
 		)
 		(property "Manufacturer" "Lattice"
+			(at 360.68 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" "C1550762"
 			(at 360.68 90.17 0)
 			(effects
 				(font
@@ -19455,6 +19572,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC#" "C56392"
+			(at 359.41 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "283d1db1-142a-4360-88ea-4ca0ec49632a")
 		)
@@ -19621,6 +19747,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC#" "C98220"
+			(at 318.77 237.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "32dda846-60c2-4152-a3bc-88e77267b5e9")
 		)
@@ -19683,6 +19818,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 248.92 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" "C56392"
 			(at 248.92 33.02 0)
 			(effects
 				(font
@@ -19891,6 +20035,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC#" "C98220"
+			(at 312.42 237.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "44304516-76d3-454a-813b-d4d93db48fc9")
 		)
@@ -19974,6 +20127,15 @@
 			)
 		)
 		(property "Manufacturer" "Lattice"
+			(at 326.39 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" "C1550762"
 			(at 326.39 181.61 0)
 			(effects
 				(font
@@ -20826,6 +20988,15 @@
 			)
 		)
 		(property "Manufacturer" "Lattice"
+			(at 133.35 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" "C1550762"
 			(at 133.35 58.42 0)
 			(effects
 				(font
@@ -21744,6 +21915,15 @@
 			)
 		)
 		(property "Manufacturer" "Lattice"
+			(at 218.44 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" "C1550762"
 			(at 218.44 58.42 0)
 			(effects
 				(font
@@ -22682,6 +22862,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC#" "C56392"
+			(at 80.01 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "d3b86265-865c-4c04-abf6-110d1a916397")
 		)
@@ -22743,6 +22932,15 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 290.83 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" "C98220"
 			(at 290.83 224.79 0)
 			(effects
 				(font
@@ -23314,6 +23512,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC#" "C2897426"
+			(at 294.64 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "6"
 			(uuid "eb0c655c-264b-4503-951b-6399004f110f")
 		)
@@ -23427,6 +23634,15 @@
 			)
 		)
 		(property "Manufacturer" "Lattice"
+			(at 364.49 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" "C1550762"
 			(at 364.49 29.21 0)
 			(effects
 				(font
@@ -24371,6 +24587,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC#" "C56392"
+			(at 391.16 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "b8311fdf-fbeb-4f35-8003-383e3eab43c5")
 		)
@@ -24498,6 +24723,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 383.54 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" "C56392"
 			(at 383.54 163.83 0)
 			(effects
 				(font
@@ -24694,7 +24928,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "b3167220-a635-4380-94e1-a9f8df296d15")
 		(property "Reference" "TP13"
@@ -24887,6 +25121,15 @@
 			)
 		)
 		(property "Manufacturer" "Lattice"
+			(at 41.91 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" "C1550762"
 			(at 41.91 185.42 0)
 			(effects
 				(font
@@ -25842,6 +26085,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC#" "C56392"
+			(at 87.63 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "27533ec0-9a41-4c16-a15f-3eedee1e0f40")
 		)
@@ -26093,6 +26345,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC#" "C56392"
+			(at 158.75 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "3e6f6c39-2566-4ebe-8ab0-1cc22a05b4aa")
 		)
@@ -26175,6 +26436,15 @@
 			)
 		)
 		(property "Manufacturer" "Lattice"
+			(at 44.45 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" "C1550762"
 			(at 44.45 54.61 0)
 			(effects
 				(font
@@ -27374,6 +27644,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC#" "C98220"
+			(at 314.96 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "efbb4376-2215-40f2-afa5-dc5f7fef630e")
 		)
@@ -27501,6 +27780,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 392.43 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" "C56392"
 			(at 392.43 62.23 0)
 			(effects
 				(font
@@ -27704,6 +27992,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 74.93 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" "C56392"
 			(at 74.93 160.02 0)
 			(effects
 				(font
@@ -27946,6 +28243,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC#" "C5665"
+			(at 327.66 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "9"
 			(uuid "b2cb5794-92fa-4312-a925-aa2134be848a")
 		)
@@ -28039,6 +28345,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC#" "C98220"
+			(at 363.22 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "f6040369-1310-44c6-8b25-475bd2f2a365")
 		)
@@ -28100,6 +28415,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 374.65 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" "C56392"
 			(at 374.65 62.23 0)
 			(effects
 				(font
@@ -28170,6 +28494,15 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 467.36 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" "C105881"
 			(at 467.36 167.64 0)
 			(effects
 				(font
@@ -28523,6 +28856,15 @@
 			)
 		)
 		(property "Manufacturer" "Lattice"
+			(at 129.54 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" "C1550762"
 			(at 129.54 185.42 0)
 			(effects
 				(font
@@ -29356,6 +29698,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 252.73 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" "C56392"
 			(at 252.73 158.75 0)
 			(effects
 				(font

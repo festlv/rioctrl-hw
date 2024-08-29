@@ -2631,7 +2631,7 @@
 				)
 			)
 		)
-		(property "Value" "R_Pack04"
+		(property "Value" "220R"
 			(at 83.82 68.58 90)
 			(effects
 				(font
@@ -2658,6 +2658,15 @@
 			)
 		)
 		(property "Description" "4 resistor network, parallel topology"
+			(at 83.82 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" "C706474"
 			(at 83.82 77.47 0)
 			(effects
 				(font

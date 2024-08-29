@@ -5209,6 +5209,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC#" "C282672"
+			(at 115.57 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9ddcd7de-99e0-40e6-96a4-562fee7a6426")
 		)
@@ -5464,6 +5473,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC#" "C123420"
+			(at 105.41 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4a2af9d4-f054-468c-b7c1-8221aaf5a085")
 		)
@@ -5600,7 +5618,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC#" ""
+		(property "LCSC#" "C105579"
 			(at 92.71 158.75 0)
 			(effects
 				(font
@@ -5970,6 +5988,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC#" "C112314"
+			(at 187.96 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3ff3ff2e-389e-4fee-b4e8-5a1efafc866c")
 		)
@@ -5992,7 +6019,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "1fee5190-c3ba-4196-9ea6-43dd195828cd")
 		(property "Reference" "H6"
@@ -6107,6 +6134,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC#" "C5673"
+			(at 223.52 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c19d50c7-35c6-4d3d-a138-52656194fe44")
 		)
@@ -6129,7 +6165,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "2223fe19-935c-4f37-8fa3-330a57c91328")
 		(property "Reference" "H4"
@@ -6356,7 +6392,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "2adaf15e-6cb3-442f-af2d-2686796c9b21")
 		(property "Reference" "H7"
@@ -6423,7 +6459,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "2c911546-4a4a-4ad8-b0a5-4bcd9675ad92")
 		(property "Reference" "H8"
@@ -6670,7 +6706,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC#" "C440198"
+		(property "LCSC#" "C6119904"
 			(at 198.12 97.79 0)
 			(effects
 				(font
@@ -6816,7 +6852,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "303ba7cd-8cfe-4c49-a9a2-879c585d217f")
 		(property "Reference" "TP6"
@@ -7375,6 +7411,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC#" "C14663"
+			(at 160.02 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "88dffa35-8dd3-4278-90d4-8c4e8f34de1f")
 		)
@@ -7672,6 +7717,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC#" "C98220"
+			(at 45.72 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "793f9e48-cf94-44f4-9b16-f1856310771b")
 		)
@@ -7694,7 +7748,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "4ee90063-71cb-4bc8-bdbc-f1853a74a5e0")
 		(property "Reference" "TP3"
@@ -7809,6 +7863,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC#" "C107035"
+			(at 111.76 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "64a86859-9640-4d8c-9e13-7e3d63146e91")
 		)
@@ -7871,6 +7934,15 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 115.57 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" "C273778"
 			(at 115.57 114.3 0)
 			(effects
 				(font
@@ -8016,7 +8088,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC#" "C361063"
+		(property "LCSC#" "C440198"
 			(at 40.64 158.75 0)
 			(effects
 				(font
@@ -8188,6 +8260,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC#" "C105579"
+			(at 105.41 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d638ff38-cb45-4137-94de-a5309c7ce276")
 		)
@@ -8324,6 +8405,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC#" "C105579"
+			(at 105.41 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c72ff25f-15c6-410a-9d6b-abce6874167b")
 		)
@@ -8346,7 +8436,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "605f0c50-2ba4-444f-ab46-363a2d222d14")
 		(property "Reference" "TP1"
@@ -8413,7 +8503,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "60733511-50a9-475b-9999-1d5c36bfc8a3")
 		(property "Reference" "TP4"
@@ -8546,7 +8636,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "6a53dc04-bcc0-4aba-af9a-76ba4fbbe9f6")
 		(property "Reference" "TP5"
@@ -8679,7 +8769,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "6c83b558-8b84-4bbf-85fd-96c6086682d8")
 		(property "Reference" "H5"
@@ -8794,6 +8884,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC#" "C112314"
+			(at 187.96 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b82692c8-b61b-4d99-8308-a002c4d624d1")
 		)
@@ -8816,7 +8915,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "6dc54397-4331-4ea3-bdda-34de54af4ec6")
 		(property "Reference" "H1"
@@ -8931,6 +9030,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC#" "C107035"
+			(at 111.76 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "23a78de0-e100-4d6e-81a0-0c9ae0ec7ec3")
 		)
@@ -9001,7 +9109,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC#" "C440198"
+		(property "LCSC#" "C6119904"
 			(at 198.12 43.18 0)
 			(effects
 				(font
@@ -9081,6 +9189,15 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 100.33 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" "C105579"
 			(at 100.33 115.57 0)
 			(effects
 				(font
@@ -9463,6 +9580,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC#" "C273778"
+			(at 115.57 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "9baf28c3-1dad-42f9-96ba-0f6aef528d89")
 		)
@@ -9533,7 +9659,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC#" "C361063"
+		(property "LCSC#" "C440198"
 			(at 107.95 158.75 0)
 			(effects
 				(font
@@ -10130,6 +10256,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC#" "C14663"
+			(at 92.71 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "fbe9200e-490c-4697-90a7-53ef0f3dca51")
 		)
@@ -10200,6 +10335,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC#" "C105579"
+			(at 100.33 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "83d9b5f0-674e-4a8c-a681-9edad2616562")
 		)
@@ -10262,6 +10406,15 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 187.96 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" "C173754"
 			(at 187.96 53.34 0)
 			(effects
 				(font
@@ -11172,7 +11325,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC#" "C440198"
+		(property "LCSC#" "C6119904"
 			(at 208.28 97.79 0)
 			(effects
 				(font
@@ -11252,6 +11405,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 115.57 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" "C282672"
 			(at 115.57 119.38 0)
 			(effects
 				(font
@@ -11380,7 +11542,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "d57c2750-0d6d-49c2-8a3e-4541508e1ce3")
 		(property "Reference" "C10"
@@ -11565,6 +11727,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 191.77 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" "C5673"
 			(at 191.77 151.13 0)
 			(effects
 				(font
@@ -11899,6 +12070,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC#" "C861839"
+			(at 187.96 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b43e9886-ba51-45cd-8a78-38d64d3ae943")
 		)
@@ -11921,7 +12101,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "dc1bd0f6-7601-4336-8136-d62cf1de2814")
 		(property "Reference" "H2"
@@ -12028,6 +12208,15 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 105.41 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" "C123420"
 			(at 105.41 35.56 0)
 			(effects
 				(font
@@ -12416,7 +12605,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "ef699d0a-8fec-42c4-a522-8032aba469db")
 		(property "Reference" "TP2"
@@ -12597,7 +12786,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC#" "C440198"
+		(property "LCSC#" "C6119904"
 			(at 208.28 43.18 0)
 			(effects
 				(font
@@ -12731,7 +12920,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "f44b95d9-f4de-4de3-bd87-1100eac45cce")
 		(property "Reference" "H3"
@@ -13014,6 +13203,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC#" "C14663"
+			(at 160.02 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a2bb8706-437b-4581-83ef-002e5c981b42")
 		)
@@ -13142,6 +13340,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 92.71 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" "C14663"
 			(at 92.71 31.75 0)
 			(effects
 				(font

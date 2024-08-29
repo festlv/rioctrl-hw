@@ -4801,6 +4801,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC#" "C105588"
+			(at 137.16 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ae048b82-ac71-4968-8b5d-5ad09b9c7b78")
 		)
@@ -5745,6 +5754,15 @@
 			)
 		)
 		(property "Description" "Generic connector, double row, 02x13, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 151.13 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" "C3975158"
 			(at 151.13 105.41 0)
 			(effects
 				(font

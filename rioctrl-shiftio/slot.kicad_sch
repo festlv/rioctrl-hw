@@ -2768,7 +2768,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "0a3a08af-75ea-41a3-a6d7-558b8532ed38")
 		(property "Reference" "H2"
@@ -2901,7 +2901,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "18741ee4-319b-4980-a3cb-30d2c9cf64d0")
 		(property "Reference" "H4"
@@ -2968,7 +2968,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "219d698b-5c10-417c-ae08-c05cdf43b4ac")
 		(property "Reference" "H3"
@@ -3139,6 +3139,15 @@
 			)
 		)
 		(property "Description" "Generic connector, double row, 02x13, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 120.65 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" "C2894993"
 			(at 120.65 88.9 0)
 			(effects
 				(font
@@ -3344,6 +3353,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 168.91 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" "C98220"
 			(at 168.91 130.81 0)
 			(effects
 				(font
@@ -3738,7 +3756,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "ae0dfa11-6ca3-4254-923e-b968db8c618d")
 		(property "Reference" "H1"
@@ -3911,6 +3929,15 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 179.07 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" "C99782"
 			(at 179.07 113.03 0)
 			(effects
 				(font

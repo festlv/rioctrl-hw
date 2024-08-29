@@ -5002,6 +5002,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC#" "C98220"
+			(at 86.36 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ae543611-e1b8-474b-9fe3-d51d752403ec")
 		)
@@ -5074,6 +5083,15 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 161.29 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" "C105588"
 			(at 161.29 101.6 0)
 			(effects
 				(font
@@ -5457,6 +5475,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 105.41 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" "C14663"
 			(at 105.41 29.21 0)
 			(effects
 				(font
@@ -6017,6 +6044,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 242.57 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" "C98220"
 			(at 242.57 66.04 0)
 			(effects
 				(font
@@ -6746,6 +6782,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC#" "C14663"
+			(at 105.41 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "84a50817-bc6e-4149-98ff-3cdc99ee30d3")
 		)
@@ -6817,6 +6862,15 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 161.29 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" "C105588"
 			(at 161.29 106.68 0)
 			(effects
 				(font
@@ -7060,6 +7114,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC#" "C105588"
+			(at 162.56 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "4d99942e-e4ed-4526-8b01-366d21701a69")
 		)
@@ -7248,6 +7311,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC#" "C98220"
+			(at 69.85 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "66f6d823-a19d-4d46-b066-623ec297b30f")
 		)
@@ -7398,6 +7470,15 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 162.56 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" "C105588"
 			(at 162.56 44.45 0)
 			(effects
 				(font
