@@ -52,7 +52,7 @@
 "R39,R40,R42,R43","49.9R","Resistor_SMD:R_0603_1608Metric","","","4","","C114625"
 "R41","10R","Resistor_SMD:R_0603_1608Metric","","","1","","C109318"
 "R53,R58-R62","100R","Resistor_SMD:R_0603_1608Metric","","","6","","C105588"
-"R57","4K7","Resistor_SMD:R_0603_1608Metric","","","1","","C99782"
+"R57,R63","4K7","Resistor_SMD:R_0603_1608Metric","","","2","","C99782"
 "SW1","SW_PUSH_SMALL","hadv-ui:SW_SPST_AR02016","XUNPU","TS-1088-AR02016","1","","C720477"
 "U1","TD6811","Package_TO_SOT_SMD:SOT-23-5","Techcode","TD6811","1","","C189486"
 "U2,U3","TPS54335ADDAR","Package_SO:SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.29x3mm_ThermalVias","Texas Instruments","TPS54335ADDAR","2","","C58928"
