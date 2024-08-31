@@ -23781,7 +23781,7 @@
 			(at 0.5 -7 0)
 			(unlocked yes)
 			(layer "F.SilkS")
-			(uuid "1ee3af2c-170f-49c1-a109-13513aa2e758")
+			(uuid "2fe90948-e0a5-493f-87a2-a849c208c75b")
 			(effects
 				(font
 					(size 0.8 0.8)
@@ -23793,7 +23793,7 @@
 			(at 0 1 180)
 			(unlocked yes)
 			(layer "F.Fab")
-			(uuid "185048f4-5b4d-4e79-98dc-092a268664f8")
+			(uuid "46e9d293-e5cf-45c6-babd-eb949448a650")
 			(effects
 				(font
 					(size 1 1)
@@ -23806,7 +23806,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "1e607be7-8e05-4caa-83a2-89ba09b83620")
+			(uuid "9cac6e1f-40e8-41b7-bcb4-59422f0da63d")
 			(effects
 				(font
 					(size 1 1)
@@ -23819,7 +23819,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b41e36d4-5904-4c3e-8b16-d7ad3ee43833")
+			(uuid "b2cdc8a3-f64b-4776-8742-7eec7422c946")
 			(effects
 				(font
 					(size 1 1)
@@ -23832,7 +23832,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a2dfb8fd-e383-4757-bacf-64d9a61bb938")
+			(uuid "d321ae1c-fe97-4851-a0f7-914e9073c8f3")
 			(effects
 				(font
 					(size 1 1)
@@ -23893,13 +23893,13 @@
 			)
 			(fill none)
 			(layer "F.SilkS")
-			(uuid "ac7bcc29-6b81-46e7-9372-4d04ace91b43")
+			(uuid "cd0d2da9-8091-496a-a3b6-a409130bfe87")
 		)
 		(fp_text user "1"
 			(at -8.5 -6 180)
 			(unlocked yes)
 			(layer "F.SilkS")
-			(uuid "fcf3531e-3e6c-4fa0-97d9-980cf9ec0f4a")
+			(uuid "5bfec87c-e92d-454f-8781-4847abe94104")
 			(effects
 				(font
 					(size 0.7 0.7)
@@ -23913,7 +23913,7 @@
 			(at 0 2.5 180)
 			(unlocked yes)
 			(layer "F.Fab")
-			(uuid "8e97dbc7-3c3a-4f17-8c79-782bdb7f9611")
+			(uuid "e96ba17f-c2e5-4198-84f0-7d0ca22bbc4c")
 			(effects
 				(font
 					(size 1 1)
@@ -23930,7 +23930,7 @@
 			(net 19 "/Output shiftreg/DO15")
 			(pinfunction "Pin_1")
 			(pintype "passive")
-			(uuid "56b5c5ab-fb7e-4841-a3e1-69928c436a0b")
+			(uuid "96beb60c-8a45-48de-aa6a-2db9ca150c40")
 		)
 		(pad "2" thru_hole circle
 			(at -7 -2.85 180)
@@ -23941,7 +23941,7 @@
 			(net 18 "/Output shiftreg/DO16")
 			(pinfunction "Pin_2")
 			(pintype "passive")
-			(uuid "2545a744-b7e3-46ab-bb8f-28b7de511e92")
+			(uuid "ddecb33f-d88e-4899-b58d-4b5721267469")
 		)
 		(pad "3" thru_hole circle
 			(at -3.5 -5.35 180)
@@ -23952,7 +23952,7 @@
 			(net 20 "/Output shiftreg/DO13")
 			(pinfunction "Pin_3")
 			(pintype "passive")
-			(uuid "6739d501-7119-4a41-9f21-a9beb75485e6")
+			(uuid "96c15001-e1f3-4720-b63a-83697acec19e")
 		)
 		(pad "4" thru_hole circle
 			(at -3.5 -2.85 180)
@@ -23963,7 +23963,7 @@
 			(net 17 "/Output shiftreg/DO14")
 			(pinfunction "Pin_4")
 			(pintype "passive")
-			(uuid "2ecbfa57-b28b-4acc-9b6d-fb6658e40a3b")
+			(uuid "61e64a82-8b2e-4750-936b-087e8073f9af")
 		)
 		(pad "5" thru_hole circle
 			(at 0 -5.35 180)
@@ -23974,7 +23974,7 @@
 			(net 15 "/Output shiftreg/DO11")
 			(pinfunction "Pin_5")
 			(pintype "passive")
-			(uuid "edcb5cfd-78e2-442c-bc2b-a4b5f01d9c3a")
+			(uuid "cc5da040-01c2-4f21-8e44-b6ac9387e3c4")
 		)
 		(pad "6" thru_hole circle
 			(at 0 -2.85 180)
@@ -23985,7 +23985,7 @@
 			(net 14 "/Output shiftreg/DO12")
 			(pinfunction "Pin_6")
 			(pintype "passive")
-			(uuid "da844e12-5d2e-4064-bae7-89c5dd344c9c")
+			(uuid "45ffb819-dd41-439d-a346-089ad6c598a1")
 		)
 		(pad "7" thru_hole circle
 			(at 3.5 -5.35 180)
@@ -23996,7 +23996,7 @@
 			(net 16 "/Output shiftreg/DO9")
 			(pinfunction "Pin_7")
 			(pintype "passive")
-			(uuid "31c985c4-0be6-41a3-9813-10f6d7c8ecbd")
+			(uuid "211c35e5-d125-4d08-ba49-d4012e21f08f")
 		)
 		(pad "8" thru_hole circle
 			(at 3.5 -2.85 180)
@@ -24007,7 +24007,7 @@
 			(net 13 "/Output shiftreg/DO10")
 			(pinfunction "Pin_8")
 			(pintype "passive")
-			(uuid "3c68351a-0d92-4f9b-a181-ea984868b99c")
+			(uuid "2ea9206d-1403-48d8-8f37-9abe58618079")
 		)
 		(pad "9" thru_hole circle
 			(at 7 -5.35 180)
@@ -24018,7 +24018,7 @@
 			(net 37 "/Output shiftreg/DOB_VIN")
 			(pinfunction "Pin_9")
 			(pintype "passive")
-			(uuid "17b0ffc4-d101-43ba-a81a-9fe8f97feb8f")
+			(uuid "25267500-5517-4115-8e62-fe8a3e6b5260")
 		)
 		(pad "10" thru_hole circle
 			(at 7 -2.85 180)
@@ -24029,7 +24029,18 @@
 			(net 12 "/Output shiftreg/DOB_GND")
 			(pinfunction "Pin_10")
 			(pintype "passive")
-			(uuid "786bed33-fb4e-4b94-8de4-2e4e199abddd")
+			(uuid "94159e13-cf5e-41fe-a265-ebdf953e2c3d")
+		)
+		(model "${KIPRJMOD}/hadv-kicad-lib/hadv-connectors.pretty/JL15EDGRHC-35005B02.STEP"
+			(offset
+				(xyz 0 -5.5 10.8)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
 		)
 	)
 	(footprint "Resistor_SMD:R_Array_Convex_4x0603"
@@ -26219,7 +26230,7 @@
 			(at 0.5 -7 0)
 			(unlocked yes)
 			(layer "F.SilkS")
-			(uuid "2fed113f-457a-4bca-a799-fcb425d3b728")
+			(uuid "d4f8f914-7e8c-4206-8bd4-98f75b34784a")
 			(effects
 				(font
 					(size 0.8 0.8)
@@ -26231,7 +26242,7 @@
 			(at 0 1 180)
 			(unlocked yes)
 			(layer "F.Fab")
-			(uuid "adcc39e4-be1b-490c-a9dd-a86ea623b72d")
+			(uuid "410b1f01-ea57-4962-ab4b-50525689926e")
 			(effects
 				(font
 					(size 1 1)
@@ -26244,7 +26255,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "9137c15d-20f8-4c25-85c4-f0f83fc192c4")
+			(uuid "8adecf61-1342-43a3-b512-e8a4b2c48ed2")
 			(effects
 				(font
 					(size 1 1)
@@ -26257,7 +26268,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ca846e23-4fb2-4f40-bd13-b5d33100a0e4")
+			(uuid "334cb4a5-784a-4c00-8680-a9decb2732c2")
 			(effects
 				(font
 					(size 1 1)
@@ -26270,7 +26281,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ddf3ab7c-0cb2-4cdb-9ab3-416025875590")
+			(uuid "1f2f5104-9ced-4233-9652-0b827d64bff5")
 			(effects
 				(font
 					(size 1 1)
@@ -26331,13 +26342,13 @@
 			)
 			(fill none)
 			(layer "F.SilkS")
-			(uuid "b9663b8d-c247-406e-929b-257f8a6ca54a")
+			(uuid "5b266fd0-472d-4476-b0e0-a9e153e74e14")
 		)
 		(fp_text user "1"
 			(at -8.5 -6 180)
 			(unlocked yes)
 			(layer "F.SilkS")
-			(uuid "b0513743-eed7-4378-ab5a-b6f6d2648778")
+			(uuid "1280d62a-feaa-4273-85dd-ee088a77ecd7")
 			(effects
 				(font
 					(size 0.7 0.7)
@@ -26351,7 +26362,7 @@
 			(at 0 2.5 180)
 			(unlocked yes)
 			(layer "F.Fab")
-			(uuid "87f3147d-65f3-4a48-97d5-ae900e6e0fb8")
+			(uuid "86946f99-1ceb-4802-8df3-7e568753de68")
 			(effects
 				(font
 					(size 1 1)
@@ -26368,7 +26379,7 @@
 			(net 8 "/Output shiftreg/DO7")
 			(pinfunction "Pin_1")
 			(pintype "passive")
-			(uuid "10984b31-4f2e-4ce6-b200-1571e9111547")
+			(uuid "bef90f7c-a576-45e2-88a4-5be14ec3cb62")
 		)
 		(pad "2" thru_hole circle
 			(at -7 -2.85 180)
@@ -26379,7 +26390,7 @@
 			(net 9 "/Output shiftreg/DO8")
 			(pinfunction "Pin_2")
 			(pintype "passive")
-			(uuid "103676d3-f10d-400b-adc9-859eb525c088")
+			(uuid "e36d0876-484b-411c-b7b0-b11b446a99e6")
 		)
 		(pad "3" thru_hole circle
 			(at -3.5 -5.35 180)
@@ -26390,7 +26401,7 @@
 			(net 10 "/Output shiftreg/DO5")
 			(pinfunction "Pin_3")
 			(pintype "passive")
-			(uuid "9fbde320-d7bb-4f7f-ab64-9c2bdb71917f")
+			(uuid "382b13f7-dc24-4df2-9268-e8037ab26677")
 		)
 		(pad "4" thru_hole circle
 			(at -3.5 -2.85 180)
@@ -26401,7 +26412,7 @@
 			(net 11 "/Output shiftreg/DO6")
 			(pinfunction "Pin_4")
 			(pintype "passive")
-			(uuid "8a9ff3bf-6332-4e6d-86f6-9ea3592cd179")
+			(uuid "1c5ac031-9efe-4df3-a5b9-717c79cc555d")
 		)
 		(pad "5" thru_hole circle
 			(at 0 -5.35 180)
@@ -26412,7 +26423,7 @@
 			(net 6 "/Output shiftreg/DO3")
 			(pinfunction "Pin_5")
 			(pintype "passive")
-			(uuid "1f15f80c-0bbb-4c20-8aa2-f456ce73ebc1")
+			(uuid "51b88055-195c-41c6-b3fa-8b5210c16d1b")
 		)
 		(pad "6" thru_hole circle
 			(at 0 -2.85 180)
@@ -26423,7 +26434,7 @@
 			(net 7 "/Output shiftreg/DO4")
 			(pinfunction "Pin_6")
 			(pintype "passive")
-			(uuid "acb026b1-d667-47c5-93d1-a14fd01e1fe5")
+			(uuid "f4dbb716-4429-4c8b-b384-6faa192fa211")
 		)
 		(pad "7" thru_hole circle
 			(at 3.5 -5.35 180)
@@ -26434,7 +26445,7 @@
 			(net 4 "/Output shiftreg/DO1")
 			(pinfunction "Pin_7")
 			(pintype "passive")
-			(uuid "66751f47-f9f2-47b5-b8bc-1fe1d9ea00e4")
+			(uuid "c66e3486-fd47-47c0-913c-59b4b0d99323")
 		)
 		(pad "8" thru_hole circle
 			(at 3.5 -2.85 180)
@@ -26445,7 +26456,7 @@
 			(net 5 "/Output shiftreg/DO2")
 			(pinfunction "Pin_8")
 			(pintype "passive")
-			(uuid "6bfa46c5-4e55-4711-93b9-dbbb9ad55af9")
+			(uuid "66d6b12f-c606-43cd-b233-0f4b89b4e9d0")
 		)
 		(pad "9" thru_hole circle
 			(at 7 -5.35 180)
@@ -26456,7 +26467,7 @@
 			(net 36 "/Output shiftreg/DOA_VIN")
 			(pinfunction "Pin_9")
 			(pintype "passive")
-			(uuid "194a0989-7fe3-49d3-a05c-6e332d3ba49d")
+			(uuid "0071f94b-96f9-4c8f-8ce8-e146f0566e18")
 		)
 		(pad "10" thru_hole circle
 			(at 7 -2.85 180)
@@ -26467,7 +26478,18 @@
 			(net 3 "/Output shiftreg/DOA_GND")
 			(pinfunction "Pin_10")
 			(pintype "passive")
-			(uuid "cbd2380d-d0fd-478c-8dac-73d85b7116d3")
+			(uuid "730a988f-aeb0-403a-b247-bcb3737b8330")
+		)
+		(model "${KIPRJMOD}/hadv-kicad-lib/hadv-connectors.pretty/JL15EDGRHC-35005B02.STEP"
+			(offset
+				(xyz 0 -5.5 10.8)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
 		)
 	)
 	(footprint "Resistor_SMD:R_0603_1608Metric"
@@ -29752,7 +29774,7 @@
 			(at 0.5 -7 0)
 			(unlocked yes)
 			(layer "F.SilkS")
-			(uuid "568a6994-6bbd-4a93-b9cb-192231ab94e5")
+			(uuid "8e6bcf46-6015-4731-b897-fed69c473b64")
 			(effects
 				(font
 					(size 0.8 0.8)
@@ -29764,7 +29786,7 @@
 			(at 0 1 180)
 			(unlocked yes)
 			(layer "F.Fab")
-			(uuid "2efeb1a2-189c-4df3-b414-6f639e7ceae9")
+			(uuid "e1870be2-cc51-48e3-a20c-1cefc718cec2")
 			(effects
 				(font
 					(size 1 1)
@@ -29777,7 +29799,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "55413261-37be-45bb-8835-9d163436b158")
+			(uuid "27b57f77-3188-43df-b61c-042039b174c2")
 			(effects
 				(font
 					(size 1 1)
@@ -29790,7 +29812,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "394d00d9-8e55-44bb-91b2-892b36e0b67b")
+			(uuid "bdfb786e-37d8-460f-ab14-9c3445ef2d69")
 			(effects
 				(font
 					(size 1 1)
@@ -29803,7 +29825,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "d4cfab0b-5d07-48b3-a893-e6c57d35b73b")
+			(uuid "984b0c16-911b-4455-9736-bf448afe4ed8")
 			(effects
 				(font
 					(size 1 1)
@@ -29864,13 +29886,13 @@
 			)
 			(fill none)
 			(layer "F.SilkS")
-			(uuid "6a9b9741-2a19-4f53-abd4-ca053aa4fa27")
+			(uuid "5fb2e96e-04ba-481a-8447-1787187a3895")
 		)
 		(fp_text user "1"
 			(at -8.5 -6 180)
 			(unlocked yes)
 			(layer "F.SilkS")
-			(uuid "85fd909a-1a14-43e3-b0b2-5e4b9dda31a6")
+			(uuid "e62e38f5-5bab-4f75-a30f-bc491ad8aa7d")
 			(effects
 				(font
 					(size 0.7 0.7)
@@ -29884,7 +29906,7 @@
 			(at 0 2.5 180)
 			(unlocked yes)
 			(layer "F.Fab")
-			(uuid "43dfc227-edab-47b6-bb4e-a52eb025877e")
+			(uuid "76f4b06a-f715-4cfc-9e8a-c706d834d40a")
 			(effects
 				(font
 					(size 1 1)
@@ -29901,7 +29923,7 @@
 			(net 42 "/Input shiftreg/INA7")
 			(pinfunction "Pin_1")
 			(pintype "passive")
-			(uuid "296c97ed-4d70-4ba3-9d90-843d1d5529ae")
+			(uuid "41736cb2-8400-48d8-bd85-30cb800f549c")
 		)
 		(pad "2" thru_hole circle
 			(at -7 -2.85 180)
@@ -29912,7 +29934,7 @@
 			(net 44 "/Input shiftreg/INA8")
 			(pinfunction "Pin_2")
 			(pintype "passive")
-			(uuid "d454dd70-1fdb-49da-872e-3eefe4fcbec1")
+			(uuid "3d545a25-0f39-4071-86b3-70fb0a9cdc08")
 		)
 		(pad "3" thru_hole circle
 			(at -3.5 -5.35 180)
@@ -29923,7 +29945,7 @@
 			(net 40 "/Input shiftreg/INA5")
 			(pinfunction "Pin_3")
 			(pintype "passive")
-			(uuid "95f590df-bb55-4cfd-9958-1f5bf97be6d8")
+			(uuid "1b0830fb-fef0-44f6-ba1e-2189f82c4fb4")
 		)
 		(pad "4" thru_hole circle
 			(at -3.5 -2.85 180)
@@ -29934,7 +29956,7 @@
 			(net 39 "/Input shiftreg/INA6")
 			(pinfunction "Pin_4")
 			(pintype "passive")
-			(uuid "87fa8855-4f23-4717-9d07-98ba48dfe364")
+			(uuid "575eac2e-cdfe-4b4f-b875-55a4151628a7")
 		)
 		(pad "5" thru_hole circle
 			(at 0 -5.35 180)
@@ -29945,7 +29967,7 @@
 			(net 38 "/Input shiftreg/INA3")
 			(pinfunction "Pin_5")
 			(pintype "passive")
-			(uuid "0e7c1970-d74e-49db-942c-ca2f753aa3de")
+			(uuid "abc4ea8b-04da-455a-9ff0-5144ca79f4d9")
 		)
 		(pad "6" thru_hole circle
 			(at 0 -2.85 180)
@@ -29956,7 +29978,7 @@
 			(net 41 "/Input shiftreg/INA4")
 			(pinfunction "Pin_6")
 			(pintype "passive")
-			(uuid "445c6554-615d-40b4-b64c-6ab1cb0f1ee4")
+			(uuid "a75abc36-56c3-4c9d-bd63-08aef8e097be")
 		)
 		(pad "7" thru_hole circle
 			(at 3.5 -5.35 180)
@@ -29967,7 +29989,7 @@
 			(net 45 "/Input shiftreg/INA1")
 			(pinfunction "Pin_7")
 			(pintype "passive")
-			(uuid "3c99c537-f30b-40bc-9f94-b558ce45f574")
+			(uuid "f9bb9013-52e6-40d7-af23-3d65789741bc")
 		)
 		(pad "8" thru_hole circle
 			(at 3.5 -2.85 180)
@@ -29978,7 +30000,7 @@
 			(net 43 "/Input shiftreg/INA2")
 			(pinfunction "Pin_8")
 			(pintype "passive")
-			(uuid "3033f2c4-4553-4b36-a512-1d635c3b2c22")
+			(uuid "7d280d16-21fd-4f04-9086-76083881f74e")
 		)
 		(pad "9" thru_hole circle
 			(at 7 -5.35 180)
@@ -29989,7 +30011,7 @@
 			(net 164 "unconnected-(J4-Pin_9-Pad9)")
 			(pinfunction "Pin_9")
 			(pintype "passive+no_connect")
-			(uuid "594d15ea-c4ae-4ebd-b00d-cd8dd8eeaac2")
+			(uuid "430680b8-e16d-4919-84a1-d58b4a26f516")
 		)
 		(pad "10" thru_hole circle
 			(at 7 -2.85 180)
@@ -30000,7 +30022,18 @@
 			(net 46 "/Input shiftreg/IN_A_COMMON")
 			(pinfunction "Pin_10")
 			(pintype "passive")
-			(uuid "8a93200e-49db-4d86-a592-230924406040")
+			(uuid "4875600f-7428-4cab-8b88-fd0081e62202")
+		)
+		(model "${KIPRJMOD}/hadv-kicad-lib/hadv-connectors.pretty/JL15EDGRHC-35005B02.STEP"
+			(offset
+				(xyz 0 -5.5 10.8)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
 		)
 	)
 	(footprint "Resistor_SMD:R_Array_Convex_4x0603"
@@ -36234,7 +36267,7 @@
 			(at 0.5 -7 0)
 			(unlocked yes)
 			(layer "F.SilkS")
-			(uuid "72b59847-29cc-4675-b9f6-ddd9736d72e7")
+			(uuid "41086402-0cfe-475a-8f2f-91ee55fb73f9")
 			(effects
 				(font
 					(size 0.8 0.8)
@@ -36246,7 +36279,7 @@
 			(at 0 1 180)
 			(unlocked yes)
 			(layer "F.Fab")
-			(uuid "7529c1a8-642a-454b-b01b-858b98a6dee0")
+			(uuid "08e6ccb7-196b-417a-a146-f7f4c7dbdeef")
 			(effects
 				(font
 					(size 1 1)
@@ -36259,7 +36292,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a2a7dc2e-95c5-4e69-b994-39762793a15e")
+			(uuid "5b23b56d-6313-4f30-95a0-0efb7bc76a16")
 			(effects
 				(font
 					(size 1 1)
@@ -36272,7 +36305,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e2d6024f-87fc-46df-9c82-07f6e6b456c9")
+			(uuid "d5225e0e-7348-440f-9ce6-175985dcc1c0")
 			(effects
 				(font
 					(size 1 1)
@@ -36285,7 +36318,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "7704de04-2446-4d5d-b063-be4ad11ee222")
+			(uuid "37849fb6-5ac5-4fe1-bb4c-d02951d04fa7")
 			(effects
 				(font
 					(size 1 1)
@@ -36346,13 +36379,13 @@
 			)
 			(fill none)
 			(layer "F.SilkS")
-			(uuid "9efa73ea-5403-4abb-9c08-c9387690032a")
+			(uuid "40ab7651-43a0-4d0b-93e3-f14612959743")
 		)
 		(fp_text user "1"
 			(at -8.5 -6 180)
 			(unlocked yes)
 			(layer "F.SilkS")
-			(uuid "ffff34d4-7c3c-4451-baac-f110e5adb2c5")
+			(uuid "6c8bc500-0044-40cf-b6e3-09348b032602")
 			(effects
 				(font
 					(size 0.7 0.7)
@@ -36366,7 +36399,7 @@
 			(at 0 2.5 180)
 			(unlocked yes)
 			(layer "F.Fab")
-			(uuid "62420c18-1853-40ba-ab31-d1a804f00d2b")
+			(uuid "8c91f3a5-ac99-4a46-b2ad-b820845e5445")
 			(effects
 				(font
 					(size 1 1)
@@ -36383,7 +36416,7 @@
 			(net 52 "/Input shiftreg/INB15")
 			(pinfunction "Pin_1")
 			(pintype "passive")
-			(uuid "1fb7920e-17d7-4bf3-bbd7-d394deef7199")
+			(uuid "46c25fbf-c6e0-4fc9-a09e-cd07119d2d6b")
 		)
 		(pad "2" thru_hole circle
 			(at -7 -2.85 180)
@@ -36394,7 +36427,7 @@
 			(net 51 "/Input shiftreg/INB16")
 			(pinfunction "Pin_2")
 			(pintype "passive")
-			(uuid "dd50434c-0258-480b-baa4-34d8098508fd")
+			(uuid "9f1c4ba4-ffcf-4a74-b04d-02c433c86234")
 		)
 		(pad "3" thru_hole circle
 			(at -3.5 -5.35 180)
@@ -36405,7 +36438,7 @@
 			(net 49 "/Input shiftreg/INB13")
 			(pinfunction "Pin_3")
 			(pintype "passive")
-			(uuid "3281e41c-0238-4d43-8645-217d0eb66395")
+			(uuid "2bdd87a4-5fb6-4c2b-9bc1-112c2c2b8920")
 		)
 		(pad "4" thru_hole circle
 			(at -3.5 -2.85 180)
@@ -36416,7 +36449,7 @@
 			(net 55 "/Input shiftreg/INB14")
 			(pinfunction "Pin_4")
 			(pintype "passive")
-			(uuid "a2fbbbbb-fcbd-40c7-9f94-cd3c33e81636")
+			(uuid "6cc758b7-349a-45ef-a046-7cb778315691")
 		)
 		(pad "5" thru_hole circle
 			(at 0 -5.35 180)
@@ -36427,7 +36460,7 @@
 			(net 48 "/Input shiftreg/INB11")
 			(pinfunction "Pin_5")
 			(pintype "passive")
-			(uuid "3a2a4dc9-6ebb-47a8-9e1a-6faaf19add1a")
+			(uuid "8736b4ad-0192-4a80-b535-07fe345511a9")
 		)
 		(pad "6" thru_hole circle
 			(at 0 -2.85 180)
@@ -36438,7 +36471,7 @@
 			(net 50 "/Input shiftreg/INB12")
 			(pinfunction "Pin_6")
 			(pintype "passive")
-			(uuid "82f74ac5-56cc-4016-b50d-4f98f16fd3f8")
+			(uuid "8e898aee-f9c5-4d22-8546-efa78b548c66")
 		)
 		(pad "7" thru_hole circle
 			(at 3.5 -5.35 180)
@@ -36449,7 +36482,7 @@
 			(net 47 "/Input shiftreg/INB9")
 			(pinfunction "Pin_7")
 			(pintype "passive")
-			(uuid "74f92841-29fc-4d04-a52c-6943c21f7307")
+			(uuid "ca6ca51b-f4b5-4f53-bb74-053921bba117")
 		)
 		(pad "8" thru_hole circle
 			(at 3.5 -2.85 180)
@@ -36460,7 +36493,7 @@
 			(net 53 "/Input shiftreg/INB10")
 			(pinfunction "Pin_8")
 			(pintype "passive")
-			(uuid "e2c785db-b320-42b2-bd00-1528dc8cf100")
+			(uuid "00533bcb-37ab-4cf7-9811-f6620ebf24e4")
 		)
 		(pad "9" thru_hole circle
 			(at 7 -5.35 180)
@@ -36471,7 +36504,7 @@
 			(net 165 "unconnected-(J5-Pin_9-Pad9)")
 			(pinfunction "Pin_9")
 			(pintype "passive+no_connect")
-			(uuid "93f6b297-3750-4c7d-a6a4-ea851f91b203")
+			(uuid "aa66471c-4f1a-450f-bc70-d5618c28db1a")
 		)
 		(pad "10" thru_hole circle
 			(at 7 -2.85 180)
@@ -36482,7 +36515,18 @@
 			(net 54 "/Input shiftreg/IN_B_COMMON")
 			(pinfunction "Pin_10")
 			(pintype "passive")
-			(uuid "84d21858-ace9-4bc1-a3a1-9692203e4174")
+			(uuid "874b883e-851f-44f0-8572-88d585778b3e")
+		)
+		(model "${KIPRJMOD}/hadv-kicad-lib/hadv-connectors.pretty/JL15EDGRHC-35005B02.STEP"
+			(offset
+				(xyz 0 -5.5 10.8)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
 		)
 	)
 	(footprint "MountingHole:MountingHole_3.2mm_M3_Pad_Via"
