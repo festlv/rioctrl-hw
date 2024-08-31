@@ -68,6 +68,9 @@ def build_project(project: str) -> int:
     run_kicad_cli(["sch", "export", "pdf", "-o", outpath / f"schematic-{projname}.pdf",
                    "-D", f"VERSION={version}", schpath])
 
+    # netlist for semi-automated riocore slot descriptions
+    run_kicad_cli(["sch", "export", "netlist", "-o", outpath / "netlist-{projname}.net", "-D", f"VERSION={version}", schpath)
+
     # export STEP of the model
     run_kicad_cli(["pcb", "export", "step", "--subst-models", "--no-dnp", "-o", outpath / f"{projname}.step",
                    "-D", f"VERSION={version}", pcbpath])
@@ -78,7 +81,6 @@ def build_project(project: str) -> int:
                    "--labels", "Refs,Value,Footprint,Manufacturer,MPN,Qty,DNP,LCSC#",
                    "--group-by", "Value,Footprint",
                    schpath])
-
     # kikit jlcpcb gerbers&drills
     run_kikit(["fab", "jlcpcb", "--field", "LCSC#", "--nametemplate", projname + "-{}", "--no-drc", "--missingWarn", pcbpath, outpath / "jlcpcb"])
 

@@ -1,3 +1,6 @@
 [submodule "hadv-kicad-lib"]
 	path = hadv-kicad-lib
 	url = git@gitlab.com:hadv1/hadv-kicad-lib.git
+[submodule "rioctrl-controller/sexp_parser"]
+	path = rioctrl-controller/sexp_parser
+	url = https://github.com/realthunder/sexp_parser.git
