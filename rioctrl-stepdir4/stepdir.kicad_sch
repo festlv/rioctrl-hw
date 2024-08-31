@@ -4076,7 +4076,7 @@
 	)
 	(wire
 		(pts
-			(xy 52.07 167.64) (xy 67.31 167.64)
+			(xy 52.07 180.34) (xy 67.31 180.34)
 		)
 		(stroke
 			(width 0)
@@ -4176,7 +4176,7 @@
 	)
 	(wire
 		(pts
-			(xy 80.01 158.75) (xy 80.01 162.56)
+			(xy 80.01 158.75) (xy 80.01 165.1)
 		)
 		(stroke
 			(width 0)
@@ -4343,6 +4343,16 @@
 			(type default)
 		)
 		(uuid "774185c0-ba33-4d2a-8a2b-5fcaf0ac61f9")
+	)
+	(wire
+		(pts
+			(xy 80.01 170.18) (xy 80.01 175.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "789b0dbb-e1d4-4f2b-90bb-ab4f56fc4a11")
 	)
 	(wire
 		(pts
@@ -4928,7 +4938,7 @@
 	)
 	(hierarchical_label "EN"
 		(shape input)
-		(at 52.07 167.64 180)
+		(at 52.07 180.34 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7261,7 +7271,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 69.85 167.64 270)
+		(at 69.85 180.34 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7269,7 +7279,7 @@
 		(dnp no)
 		(uuid "b01e9b06-7aa1-4352-87f6-7b81ba6ee3ab")
 		(property "Reference" "R21"
-			(at 69.85 172.72 90)
+			(at 69.85 185.42 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7277,7 +7287,7 @@
 			)
 		)
 		(property "Value" "10K"
-			(at 69.85 170.18 90)
+			(at 69.85 182.88 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7285,7 +7295,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 69.85 167.64 0)
+			(at 69.85 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7294,7 +7304,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 69.85 167.64 0)
+			(at 69.85 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7303,7 +7313,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 69.85 167.64 0)
+			(at 69.85 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7312,7 +7322,7 @@
 			)
 		)
 		(property "LCSC#" "C98220"
-			(at 69.85 167.64 0)
+			(at 69.85 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7593,8 +7603,96 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R_Small")
+		(at 80.01 167.64 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "d7ad5b20-da83-4549-aae9-b9263b9cda5c")
+		(property "Reference" "R15"
+			(at 83.058 169.164 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "10K"
+			(at 76.2 168.656 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 80.01 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 80.01 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 80.01 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" "C98220"
+			(at 80.01 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2af200dd-efe8-4173-96f6-105fde601a9a")
+		)
+		(pin "2"
+			(uuid "9673f1ae-a519-4a52-805f-ad8c7f16bef5")
+		)
+		(instances
+			(project "rioctrl-stepdir4"
+				(path "/09587842-9628-4761-8ca3-5c7cdb77bd67/05836d8b-9c0a-4ec5-b5c3-59f72c542683"
+					(reference "R31")
+					(unit 1)
+				)
+				(path "/09587842-9628-4761-8ca3-5c7cdb77bd67/37660470-539d-4ef0-8319-4a3363bab027"
+					(reference "R37")
+					(unit 1)
+				)
+				(path "/09587842-9628-4761-8ca3-5c7cdb77bd67/6edbf5bb-a097-4513-bbfc-fc51b4716a77"
+					(reference "R23")
+					(unit 1)
+				)
+				(path "/09587842-9628-4761-8ca3-5c7cdb77bd67/eebf3392-0a38-4e82-919d-cd3d193b6f43"
+					(reference "R15")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
-		(at 80.01 172.72 0)
+		(at 80.01 185.42 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7603,7 +7701,7 @@
 		(fields_autoplaced yes)
 		(uuid "d829b906-8543-43b4-8f65-91c290b16305")
 		(property "Reference" "#PWR043"
-			(at 80.01 179.07 0)
+			(at 80.01 191.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7612,7 +7710,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 80.01 177.8 0)
+			(at 80.01 190.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7620,7 +7718,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 80.01 172.72 0)
+			(at 80.01 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7629,7 +7727,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 80.01 172.72 0)
+			(at 80.01 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7638,7 +7736,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 80.01 172.72 0)
+			(at 80.01 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7828,7 +7926,7 @@
 	)
 	(symbol
 		(lib_id "hadv-transistors:BSS138W")
-		(at 77.47 167.64 0)
+		(at 77.47 180.34 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7837,7 +7935,7 @@
 		(fields_autoplaced yes)
 		(uuid "e70204ad-c957-4001-bec5-cd5d62bb1fc9")
 		(property "Reference" "Q9"
-			(at 83.82 166.37 0)
+			(at 83.82 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7846,7 +7944,7 @@
 			)
 		)
 		(property "Value" "BSS138W"
-			(at 83.82 168.91 0)
+			(at 83.82 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7855,7 +7953,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-323_SC-70"
-			(at 82.55 165.1 0)
+			(at 82.55 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7864,7 +7962,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 77.47 167.64 0)
+			(at 77.47 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7873,7 +7971,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 77.47 167.64 0)
+			(at 77.47 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7882,7 +7980,7 @@
 			)
 		)
 		(property "MPN" "BSS138W"
-			(at 77.47 167.64 0)
+			(at 77.47 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7891,7 +7989,7 @@
 			)
 		)
 		(property "Manufacturer" "Jiangsu Changjing Electronics Technology Co., Ltd."
-			(at 77.47 167.64 0)
+			(at 77.47 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7900,7 +7998,7 @@
 			)
 		)
 		(property "LCSC#" "C504052"
-			(at 77.47 167.64 0)
+			(at 77.47 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)

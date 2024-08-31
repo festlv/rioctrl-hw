@@ -3252,7 +3252,7 @@
 	)
 	(wire
 		(pts
-			(xy 190.5 62.23) (xy 200.66 62.23)
+			(xy 190.5 74.93) (xy 200.66 74.93)
 		)
 		(stroke
 			(width 0)
@@ -3392,7 +3392,7 @@
 	)
 	(wire
 		(pts
-			(xy 213.36 52.07) (xy 213.36 57.15)
+			(xy 213.36 52.07) (xy 213.36 55.88)
 		)
 		(stroke
 			(width 0)
@@ -3822,6 +3822,16 @@
 	)
 	(wire
 		(pts
+			(xy 213.36 60.96) (xy 213.36 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e40b4f02-a3d6-4bcc-8ff8-2b475dfa8977")
+	)
+	(wire
+		(pts
 			(xy 233.68 123.19) (xy 233.68 128.27)
 		)
 		(stroke
@@ -3973,7 +3983,7 @@
 		(uuid "50248ed5-134b-43c6-b404-512aa42c00ec")
 	)
 	(label "SlotEN"
-		(at 190.5 62.23 0)
+		(at 190.5 74.93 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4897,7 +4907,7 @@
 	)
 	(symbol
 		(lib_id "hadv-transistors:BSS138W")
-		(at 210.82 62.23 0)
+		(at 210.82 74.93 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4906,7 +4916,7 @@
 		(fields_autoplaced yes)
 		(uuid "3fa32260-fd3f-4508-9c85-dd76d4dcb191")
 		(property "Reference" "Q1"
-			(at 217.17 60.96 0)
+			(at 217.17 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4915,7 +4925,7 @@
 			)
 		)
 		(property "Value" "BSS138W"
-			(at 217.17 63.5 0)
+			(at 217.17 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4924,7 +4934,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-323_SC-70"
-			(at 215.9 59.69 0)
+			(at 215.9 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4933,7 +4943,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 210.82 62.23 0)
+			(at 210.82 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4942,7 +4952,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 210.82 62.23 0)
+			(at 210.82 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4951,7 +4961,7 @@
 			)
 		)
 		(property "MPN" "BSS138W"
-			(at 210.82 62.23 0)
+			(at 210.82 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4960,7 +4970,7 @@
 			)
 		)
 		(property "Manufacturer" "Jiangsu Changjing Electronics Technology Co., Ltd."
-			(at 210.82 62.23 0)
+			(at 210.82 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4969,7 +4979,7 @@
 			)
 		)
 		(property "LCSC#" "C504052"
-			(at 210.82 62.23 0)
+			(at 210.82 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5129,7 +5139,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 213.36 67.31 0)
+		(at 213.36 80.01 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5138,7 +5148,7 @@
 		(fields_autoplaced yes)
 		(uuid "46ee6fbd-af11-43c1-bded-842842fbc2c8")
 		(property "Reference" "#PWR06"
-			(at 213.36 73.66 0)
+			(at 213.36 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5147,7 +5157,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 213.36 72.39 0)
+			(at 213.36 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5155,7 +5165,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 213.36 67.31 0)
+			(at 213.36 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5164,7 +5174,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 213.36 67.31 0)
+			(at 213.36 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5173,7 +5183,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 213.36 67.31 0)
+			(at 213.36 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5188,6 +5198,82 @@
 			(project "rioctrl-stepdir4"
 				(path "/09587842-9628-4761-8ca3-5c7cdb77bd67/37e028e8-dcad-4a75-b244-5f607e32f85e"
 					(reference "#PWR06")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small")
+		(at 213.36 58.42 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "4a59a709-9f1a-4900-a8e6-c726349a5f02")
+		(property "Reference" "R7"
+			(at 216.408 59.944 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "10K"
+			(at 209.55 59.436 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 213.36 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 213.36 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 213.36 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" "C98220"
+			(at 213.36 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "38ddbc1d-4374-4106-a319-268a1445dc06")
+		)
+		(pin "2"
+			(uuid "3dad3f53-9cfb-459f-861c-f31f2344dc6f")
+		)
+		(instances
+			(project "rioctrl-stepdir4"
+				(path "/09587842-9628-4761-8ca3-5c7cdb77bd67/37e028e8-dcad-4a75-b244-5f607e32f85e"
+					(reference "R7")
 					(unit 1)
 				)
 			)
@@ -6225,7 +6311,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 203.2 62.23 270)
+		(at 203.2 74.93 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6233,7 +6319,7 @@
 		(dnp no)
 		(uuid "b53dd7a7-77c3-4c64-82d4-664c091a2d31")
 		(property "Reference" "R1"
-			(at 203.2 67.31 90)
+			(at 203.2 80.01 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6241,7 +6327,7 @@
 			)
 		)
 		(property "Value" "10K"
-			(at 203.2 64.77 90)
+			(at 203.2 77.47 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6249,7 +6335,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 203.2 62.23 0)
+			(at 203.2 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6258,7 +6344,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 203.2 62.23 0)
+			(at 203.2 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6267,7 +6353,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 203.2 62.23 0)
+			(at 203.2 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6276,7 +6362,7 @@
 			)
 		)
 		(property "LCSC#" "C98220"
-			(at 203.2 62.23 0)
+			(at 203.2 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
