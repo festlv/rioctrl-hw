@@ -23879,6 +23879,19 @@
 				)
 			)
 		)
+		(property "MatingLCSC#" "C2908401"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "07920c57-c0a4-467c-af8c-9dd50306f31c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Connector*:*_2x??_*")
 		(path "/400c0f37-169a-48ce-93d6-668158024be5/2a789e7b-3757-4675-9d0c-dec0781ef2de")
 		(sheetname "Output shiftreg")
@@ -26321,6 +26334,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "53bbee0a-e06b-4ee5-9bcf-25ab6a848a78")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MatingLCSC#" "C2908401"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c9a1e6af-b618-4e93-9998-1c96b7f8c104")
 			(effects
 				(font
 					(size 1 1)
@@ -29865,6 +29891,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "f104781d-4745-41d0-97a3-a559be16e862")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MatingLCSC#" "C2908401"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c5c3564f-d2c4-4fd2-9f17-42bebd753abf")
 			(effects
 				(font
 					(size 1 1)
@@ -36358,6 +36397,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "ac61cc5b-8d0c-4ed2-9b0a-43d5f319c17e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MatingLCSC#" "C2908401"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ba58461b-dd20-4e43-a6da-ba964b6adcd8")
 			(effects
 				(font
 					(size 1 1)

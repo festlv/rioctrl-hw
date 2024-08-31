@@ -338,6 +338,15 @@
 					(hide yes)
 				)
 			)
+			(property "MatingLCSC#" "C2908401"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
 			(property "ki_keywords" "pluggable terminal block receptacle"
 				(at 0 0 0)
 				(effects
@@ -4004,6 +4013,15 @@
 				(hide yes)
 			)
 		)
+		(property "MatingLCSC#" "C2908401"
+			(at 208.28 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "9"
 			(uuid "b5385df6-72a6-4e13-9e29-4412d5a1d462")
 		)
@@ -4115,6 +4133,15 @@
 			)
 		)
 		(property "LCSC#" "C2908411"
+			(at 208.28 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MatingLCSC#" "C2908401"
 			(at 208.28 54.61 0)
 			(effects
 				(font

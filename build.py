@@ -83,7 +83,7 @@ def build_project(project: str) -> int:
     run_kikit(["fab", "jlcpcb", "--field", "LCSC#", "--nametemplate", projname + "-{}", "--no-drc", "--missingWarn", pcbpath, outpath / "jlcpcb"])
 
     # 3d render (needs nightly build of kicad with this functionality)
-    run_kicad_nightly_cli(["pcb", "render", "-o", outpath / "board.png", "-D", f"VERSION={version}", pcbpath])
+    run_kicad_nightly_cli(["pcb", "render", "--zoom", "0.8", "-o", outpath / "board.png", "-D", f"VERSION={version}", pcbpath])
 
     return 0
 
