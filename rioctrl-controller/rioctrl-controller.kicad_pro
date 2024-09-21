@@ -767,5 +767,7 @@
       "SlotF"
     ]
   ],
-  "text_variables": {}
+  "text_variables": {
+    "VERSION": "1.1"
+  }
 }

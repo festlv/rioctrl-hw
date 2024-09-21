@@ -16425,6 +16425,103 @@
 		)
 	)
 	(symbol
+		(lib_id "hadv-ui:LED_GREEN")
+		(at 439.42 138.43 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1834938c-74dd-49c1-9e77-e7a9f17be241")
+		(property "Reference" "D12"
+			(at 441.96 137.0964 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "LED_GREEN"
+			(at 441.96 139.6364 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
+			(at 439.42 138.43 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 439.42 138.43 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "LED green"
+			(at 439.42 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SZYY0603YG"
+			(at 439.42 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Yongyu Photoelectric"
+			(at 439.42 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" "C434423"
+			(at 439.42 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "ce49d4de-589f-47d3-9612-03995e25f49d")
+		)
+		(pin "1"
+			(uuid "059f2c64-91df-407e-be45-e1cd86bab05b")
+		)
+		(instances
+			(project "rioctrl-controller"
+				(path "/41b9ee15-835e-4b63-93e8-ca4d10e95680/0f99be73-1872-4e61-837d-7059db5ce2e1"
+					(reference "D12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C_Small")
 		(at 354.33 62.23 0)
 		(unit 1)
@@ -27488,103 +27585,6 @@
 			(project "rioctrl-hw"
 				(path "/41b9ee15-835e-4b63-93e8-ca4d10e95680/0f99be73-1872-4e61-837d-7059db5ce2e1"
 					(reference "#PWR0101")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "hadv-ui:LED_RED")
-		(at 439.42 138.43 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "d9a750dd-0bea-47c8-b3d2-5c0998fd57ac")
-		(property "Reference" "D12"
-			(at 441.96 137.0964 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "LED_RED"
-			(at 441.96 139.6364 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
-			(at 439.42 138.43 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 439.42 138.43 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "LED red"
-			(at 439.42 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "SZYY0603R"
-			(at 439.42 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Yongyu Photoelectric"
-			(at 439.42 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC#" "C434419"
-			(at 439.42 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "9b13926a-11eb-4129-b283-9667fd62f8b7")
-		)
-		(pin "2"
-			(uuid "4508140f-eba5-48b2-b6a4-dca906a6726a")
-		)
-		(instances
-			(project "rioctrl-hw"
-				(path "/41b9ee15-835e-4b63-93e8-ca4d10e95680/0f99be73-1872-4e61-837d-7059db5ce2e1"
-					(reference "D12")
 					(unit 1)
 				)
 			)
