@@ -33,8 +33,11 @@ one block can be 5V outputs and another one- 24VDC.
 
 ## Pinout of input blocks
 
-Common input can be either ground, or positive voltage of 5..24VDC for sourcing or 
+Common input can be either ground, or positive voltage of 12..24VDC for sourcing or 
 sinking type outputs.
+
+Limited testing has shown that inputs also work at 5V output level, but that's not really guaranteed with the
+values of components in current design.
 
 
 |   | Common |
