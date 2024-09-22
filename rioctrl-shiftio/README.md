@@ -8,3 +8,46 @@ This module provides the following IOs:
 Due to slot width limitations, each group of outputs (4 in total) are fitted with spring-type pluggable terminal blocks (LCSC part number:
 [C2908401](https://www.lcsc.com/product-detail/Pluggable-System-Terminal-Block_JILN-JL15EDGKNH-35005B01_C2908401.html)).
 
+# Pinout
+![pinout](pinout.jpg)
+
+## Pinout of output blocks
+
+VCC is 5..24V DC. Each of the output blocks has a separate power supply, so for example
+one block can be 5V outputs and another one- 24VDC.
+
+| VCC  | GND  |
+|------|------|
+| 0    | 1    |
+| 2    | 3    |
+| 4    | 5    |
+| 6    | 7    |
+
+
+| VCC | GND |
+|-----|-----|
+| 8   | 9   |
+| 10  | 11  |
+| 12  | 13  |
+| 14  | 15  |
+
+## Pinout of input blocks
+
+Common input can be either ground, or positive voltage of 5..24VDC for sourcing or 
+sinking type outputs.
+
+
+|   | Common |
+|---|---------|
+| 0 | 1       |
+| 2 | 3       |
+| 4 | 5       |
+| 6 | 7       |
+
+
+|  | Common |
+|-----|--------|
+| 8   | 9      |
+| 10  | 11     |
+| 12  | 13     |
+| 14  | 15     |
