@@ -16,8 +16,12 @@ At this time, the following modules have been designed:
 
 # Current state of the hardware design
 
-**Current hardware revision has not yet been built!** It is only being produced, and it is very likely, that there will be major issues that either require 
-re-spinning the boards or rework.
+The following hardware has been built and tested to be working:
+
+* rioctrl-controller v1.0: minor rework was needed (remove a diode, rotate Y1 by 90 degrees). Fixed in v1.1.
+* rioctrl-stepdir4 v1.0: electrically working, mechanically a connector was offset by 4 mm, fixed in v1.1.
+* rioctrl-shiftio: working as designed.
+* breakouts/rj45-screw-terminals: working as designed.
 
 # Pretty images
 
