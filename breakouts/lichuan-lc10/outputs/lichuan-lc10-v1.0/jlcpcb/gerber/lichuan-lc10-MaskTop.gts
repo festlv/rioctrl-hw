@@ -1,12 +1,12 @@
-G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,8.0.4*
-G04 #@! TF.CreationDate,2024-08-31T14:34:45+03:00*
+G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,8.0.5*
+G04 #@! TF.CreationDate,2024-09-22T17:44:19+03:00*
 G04 #@! TF.ProjectId,lichuan-lc10,6c696368-7561-46e2-9d6c-6331302e6b69,rev?*
 G04 #@! TF.SameCoordinates,Original*
 G04 #@! TF.FileFunction,Soldermask,Top*
 G04 #@! TF.FilePolarity,Negative*
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 8.0.4) date 2024-08-31 14:34:45*
+G04 Created by KiCad (PCBNEW 8.0.5) date 2024-09-22 17:44:19*
 %MOMM*%
 %LPD*%
 G01*

@@ -21,7 +21,7 @@ re-spinning the boards or rework.
 # Pretty images
 
 ### rioctrl-controller
-![rioctrl-controller](rioctrl-controller/outputs/rioctrl-controller-v1.0/board.png)
+![rioctrl-controller](rioctrl-controller/outputs/rioctrl-controller-v1.1/board.png)
 
 ### rioctrl-stepdir4
 ![rioctrl-stepdir4](rioctrl-stepdir4/outputs/rioctrl-stepdir4-v1.0/board.png)

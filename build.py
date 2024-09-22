@@ -34,6 +34,10 @@ def run_kicad_nightly_cli(args: list):
 def run_kikit(args: list):
     return run_cmd("kikit", args)
 
+def run_ibom(args: list):
+    return run_cmd("generate_interactive_bom", args)
+
+
 
 def build_project(project: str) -> int:
     log.info(f"Building {project}")
@@ -51,7 +55,8 @@ def build_project(project: str) -> int:
     version = open(verpath.absolute()).read().strip()
     log.info(f"Version: {version}")
 
-    outpath = projpath / "outputs" / f"{projname}-v{version}"
+    reloutpath = Path("outputs") / f"{projname}-v{version}"
+    outpath = projpath / reloutpath
     log.info(f"Outputs path: {outpath}")
     outpath.mkdir(exist_ok=True, parents=True)
 
@@ -69,7 +74,8 @@ def build_project(project: str) -> int:
                    "-D", f"VERSION={version}", schpath])
 
     # netlist for semi-automated riocore slot descriptions
-    run_kicad_cli(["sch", "export", "netlist", "-o", outpath / "netlist-{projname}.net", "-D", f"VERSION={version}", schpath)
+    netlist_fname = outpath / f"netlist-{projname}.net"
+    run_kicad_cli(["sch", "export", "netlist", "-o", netlist_fname, schpath])
 
     # export STEP of the model
     run_kicad_cli(["pcb", "export", "step", "--subst-models", "--no-dnp", "-o", outpath / f"{projname}.step",
@@ -85,7 +91,12 @@ def build_project(project: str) -> int:
     run_kikit(["fab", "jlcpcb", "--field", "LCSC#", "--nametemplate", projname + "-{}", "--no-drc", "--missingWarn", pcbpath, outpath / "jlcpcb"])
 
     # 3d render (needs nightly build of kicad with this functionality)
-    run_kicad_nightly_cli(["pcb", "render", "--zoom", "0.8", "-o", outpath / "board.png", "-D", f"VERSION={version}", pcbpath])
+    run_kicad_nightly_cli(["pcb", "render", "--zoom", "0.8", "-o", outpath / "board.png", "-D",
+                           f"VERSION={version}", pcbpath])
+
+    # generate ibom
+    run_ibom(["--dest-dir", reloutpath, "--extra-fields", "LCSC#", "--netlist-file", netlist_fname,
+              "--no-browser", pcbpath])
 
     return 0
 
