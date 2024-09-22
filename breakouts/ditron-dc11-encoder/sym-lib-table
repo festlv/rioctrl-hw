@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "hadv-connectors")(type "KiCad")(uri "${KIPRJMOD}/hadv-kicad-lib/hadv-connectors.kicad_sym")(options "")(descr ""))
+  (lib (name "hadv-mechanical")(type "KiCad")(uri "${KIPRJMOD}/hadv-kicad-lib/hadv-mechanical.kicad_sym")(options "")(descr ""))
+)

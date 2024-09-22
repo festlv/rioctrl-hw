@@ -12,6 +12,7 @@ At this time, the following modules have been designed:
 * [rioctrl-shifio](rioctrl-shiftio/README.md): 16 digital inputs, 16 digital outputs (PNP)
 * breakouts/lichuan-lc10: breakout board that allows connecting Lichuan LC10 series servo to stepdir4 and quadenc4 module (via off-the-shelf RJ45 cables)
 * breakouts/rj45-screw-terminals: breakout board from RJ45 cable to screw terminals
+* breakouts/ditron-dc11-encoder: breakout board from RJ45 cable to Ditron DC11 glass scale optical encoder (DB9)
 
 # Current state of the hardware design
 

@@ -1,0 +1,28 @@
+Drill report for ditron-dc11-encoder.kicad_pcb
+Created on 2024-09-22T19:13:33+0300
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'ditron-dc11-encoder.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.400mm  0.0157"  (2 holes)
+    T2  0.500mm  0.0197"  (16 holes)
+    T3  0.890mm  0.0350"  (12 holes)
+    T4  1.000mm  0.0394"  (9 holes)
+    T5  1.800mm  0.0709"  (2 holes)
+    T6  3.200mm  0.1260"  (4 holes)
+
+    Total plated holes count 45
+
+
+Not plated through holes are merged with plated holes
+    unplated through holes:
+    =============================================================
+    T7  3.250mm  0.1280"  (2 holes)
+
+    Total unplated holes count 2

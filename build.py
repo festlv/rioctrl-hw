@@ -11,7 +11,7 @@ class BuildException(Exception):
     pass
 
 boards = ["rioctrl-controller", "rioctrl-quadenc4", "rioctrl-stepdir4", "rioctrl-shiftio",
-          "breakouts/rj45-screw-terminals", "breakouts/lichuan-lc10"]
+          "breakouts/rj45-screw-terminals", "breakouts/lichuan-lc10", "breakouts/ditron-dc11-encoder"]
 
 def run_cmd(command:str, args: list):
     cmd = [command] + args
