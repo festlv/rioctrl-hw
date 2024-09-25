@@ -49,3 +49,7 @@ There is a `build.py` script that publishes outputs to each module `outputs` dir
 determine the current version, which should be updated accordingly.
 
 For 3D renders of the boards, kicad-nightly package is needed, as the currently stable kicad version does not have board rendering functionality available from command line.
+
+# License
+
+The hardware designs in this repository are licensed under [CERN Open Hardware Licence Version 2 - Strongly Reciprocal](LICENSE.md).
