@@ -1,7 +1,7 @@
 (export (version "E")
   (design
     (source "/home/reinis/personal/rio/rioctrl-hw/breakouts/ditron-dc11-encoder/ditron-dc11-encoder.kicad_sch")
-    (date "2024-09-22T19:21:19+0300")
+    (date "2024-09-25T12:16:07+0300")
     (tool "Eeschema 8.0.5")
     (sheet (number "1") (name "/") (tstamps "/")
       (title_block

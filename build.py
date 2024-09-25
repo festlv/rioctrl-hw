@@ -90,6 +90,19 @@ def build_project(project: str) -> int:
     # kikit jlcpcb gerbers&drills
     run_kikit(["fab", "jlcpcb", "--field", "LCSC#", "--nametemplate", projname + "-{}", "--no-drc", "--missingWarn", pcbpath, outpath / "jlcpcb"])
 
+    # position files for pick & place
+    run_kicad_cli(["pcb", "export", "pos", "--units", "mm", "--smd-only", "--exclude-dnp", "--format", "csv",
+                   "-o", outpath / "pos.csv", pcbpath])
+    run_kicad_cli(["pcb", "export", "pos", "--units", "mm", "--smd-only", "--exclude-dnp", "--format", "csv",
+                   "--side", "front", "-o", outpath / "pos-front.csv", pcbpath])
+    run_kicad_cli(["pcb", "export", "pos", "--units", "mm", "--smd-only", "--exclude-dnp", "--format", "csv",
+                   "--side", "back", "-o", outpath / "pos-back.csv", pcbpath])
+
+
+    run_kicad_cli(["pcb", "export", "pos", "--units", "mm", "--smd-only", "--exclude-dnp", "--format", "csv",
+                   "-o", outpath / "pos.csv", pcbpath])
+
+
     # 3d render (needs nightly build of kicad with this functionality)
     run_kicad_nightly_cli(["pcb", "render", "--zoom", "0.8", "-o", outpath / "board.png", "-D",
                            f"VERSION={version}", pcbpath])

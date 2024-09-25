@@ -1,7 +1,7 @@
 (export (version "E")
   (design
     (source "/home/reinis/personal/rio/rioctrl-hw/rioctrl-stepdir4/rioctrl-stepdir4.kicad_sch")
-    (date "2024-09-22T18:00:59+0300")
+    (date "2024-09-25T12:15:48+0300")
     (tool "Eeschema 8.0.5")
     (sheet (number "1") (name "/") (tstamps "/")
       (title_block
