@@ -21,8 +21,10 @@ The following hardware has been built and tested to be working:
 * rioctrl-controller v1.0: minor rework was needed (remove a diode, rotate Y1 by 90 degrees). Fixed in v1.1.
 * rioctrl-stepdir4 v1.0: electrically working, mechanically a connector was offset by 4 mm, fixed in v1.1.
 * rioctrl-shiftio: working as designed.
+* rioctrl-quadencz: working as designed (with the caveat that it's only compatible with differential/RS422 encoders).
+* breakouts/ditron-dc11-encoder: working as designed, tested with Ditron DC11 encoder with RS422 output option.
 * breakouts/rj45-screw-terminals: working as designed.
-
+* breakouts/lichuan-lc10: step/dir/enable working as designed, GPIOs not tested yet.
 # Pretty images
 
 ### rioctrl-controller
