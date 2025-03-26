@@ -25,6 +25,11 @@ The following hardware has been built and tested to be working:
 * breakouts/ditron-dc11-encoder: working as designed, tested with Ditron DC11 encoder with RS422 output option.
 * breakouts/rj45-screw-terminals: working as designed.
 * breakouts/lichuan-lc10: step/dir/enable working as designed, GPIOs not tested yet.
+
+## Known issues
+
+* External override for slot enable is slow to turn off stepdir enable signals. Need to scope this a bit, but it's either due to U14 output being
+  tri-stated or the capacitance of +24V_EN lines powering the enable signals for some additional time.
 # Pretty images
 
 ### rioctrl-controller
