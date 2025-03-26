@@ -519,6 +519,18 @@
 		(at 120.65 74.93)
 		(uuid "6fdf3650-2d5b-4a4a-a70f-06dd78cf8b8a")
 	)
+	(no_connect
+		(at 120.65 52.07)
+		(uuid "81e9f1df-1f86-4223-9de4-71f88efeef3d")
+	)
+	(no_connect
+		(at 120.65 49.53)
+		(uuid "8a163e77-a7bd-49aa-b635-fff5a604dcf6")
+	)
+	(no_connect
+		(at 245.11 54.61)
+		(uuid "8de0aafa-fde9-44e6-94ae-201a95e2c7f5")
+	)
 	(wire
 		(pts
 			(xy 148.59 97.79) (xy 148.59 67.31)
