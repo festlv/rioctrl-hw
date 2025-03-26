@@ -1,0 +1,29 @@
+Drill report for rioctrl-spindle.kicad_pcb
+Created on 2025-03-26T21:35:13+0200
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'rioctrl-spindle-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.300mm  0.0118"  (25 holes)
+    T2  0.400mm  0.0157"  (38 holes)
+    T3  0.500mm  0.0197"  (32 holes)
+    T4  0.890mm  0.0350"  (12 holes)
+    T5  1.000mm  0.0394"  (36 holes)
+    T6  1.800mm  0.0709"  (2 holes)
+    T7  3.200mm  0.1260"  (4 holes)
+
+    Total plated holes count 149
+
+
+Drill file 'rioctrl-spindle-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+    T1  3.250mm  0.1280"  (2 holes)
+
+    Total unplated holes count 2
