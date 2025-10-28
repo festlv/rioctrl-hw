@@ -9408,7 +9408,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC#" "C98220"
+		(property "LCSC#" "C2930117"
 			(at 92.71 163.83 0)
 			(effects
 				(font
@@ -9417,7 +9417,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "RC0603FR-0710KL"
+		(property "MPN" "FRC0603F5622TS"
 			(at 92.71 163.83 0)
 			(effects
 				(font

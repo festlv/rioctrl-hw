@@ -14099,7 +14099,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC#" "C112314"
+		(property "LCSC#" "C14675"
 			(at 285.75 161.29 0)
 			(effects
 				(font
@@ -14108,7 +14108,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "RC0603FR-075K11L"
+		(property "MPN" "RC0603FR-07100KL"
 			(at 285.75 161.29 0)
 			(effects
 				(font
